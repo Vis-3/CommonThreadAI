@@ -1,6 +1,6 @@
 # 🧵 CommonThread
 
-> **Helping international students feel culturally at home — faster.**
+> **Helping international students feel culturally at home  faster.**
 
 CommonThread maps what you already love — the emotional texture of your films, the aesthetic register of your music — and finds its nearest equivalent in your new environment. Culture isn't a barrier to overcome; it's a bridge to build across.
 

@@ -9,12 +9,8 @@ CommonThread maps what you already love — the emotional texture of your films,
 ## 📽️ Demo
 
 <!-- Add your video demo here -->
-> 🎬 **[Video demo coming soon]**
->
-> _To add a demo: record a walkthrough (Loom, YouTube, etc.) and replace this block with:_
-> ```md
-> [![CommonThread Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-> ```
+> 🎬 [CommonThread Demo](https://drive.google.com/file/d/15EzhwXnxe_Fxt6diF5A1rkqktFlB3PPO/view?usp=sharing)
+
 
 ---
 

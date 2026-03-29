@@ -2,7 +2,7 @@
 
 > **Helping international students feel culturally at home  faster.**
 
-CommonThread maps what you already love — the emotional texture of your films, the aesthetic register of your music — and finds its nearest equivalent in your new environment. Culture isn't a barrier to overcome; it's a bridge to build across.
+CommonThread maps what you already love the emotional texture of your films, the aesthetic register of your music and finds its nearest equivalent in your new environment. Culture isn't a barrier to overcome; it's a bridge to build across.
 
 ---
 
@@ -16,7 +16,7 @@ CommonThread maps what you already love — the emotional texture of your films,
 
 ## ✨ What It Does
 
-A student enters their media diet — YouTube channels, movies, music, books, and food — and CommonThread extracts an abstract **Cultural DNA** profile representing their themes, emotions, aesthetics, origins, and taste. That DNA is then used to:
+A student enters their media diet - YouTube channels, movies, music, books, and food and CommonThread extracts an abstract **Cultural DNA** profile representing their themes, emotions, aesthetics, origins, and taste. That DNA is then used to:
 
 | Feature | Description |
 |---|---|

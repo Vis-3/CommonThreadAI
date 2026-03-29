@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+anthropic
+chromadb
+langchain
+python-dotenv
+aiosqlite
+python-jose[cryptography]
+passlib[bcrypt]

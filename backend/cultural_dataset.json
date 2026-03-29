@@ -1,0 +1,542 @@
+[
+  {
+    "title": "Pather Panchali",
+    "creator": "Satyajit Ray",
+    "type": "film",
+    "culture_of_origin": "Bengali Indian",
+    "themes": ["coming of age", "poverty and resilience", "longing for a better life", "connection to nature", "loss of innocence"],
+    "emotions": ["melancholy", "wonder", "tenderness", "quiet grief"],
+    "aesthetic": ["neorealist naturalism", "unhurried pacing", "rural landscape poetry", "intimate close-ups"]
+  },
+  {
+    "title": "Mughal-E-Azam",
+    "creator": "K. Asif",
+    "type": "film",
+    "culture_of_origin": "North Indian Mughal",
+    "themes": ["forbidden love", "duty versus desire", "imperial power", "sacrifice", "artistic devotion"],
+    "emotions": ["passionate longing", "grandeur", "tragedy", "reverence"],
+    "aesthetic": ["epic scale", "ornate visual splendour", "classical Hindustani music", "monumental architecture"]
+  },
+  {
+    "title": "Spirited Away",
+    "creator": "Hayao Miyazaki",
+    "type": "film",
+    "culture_of_origin": "Japanese",
+    "themes": ["loss of self in labour", "spiritual transformation", "the hidden spirit world", "courage in the unfamiliar", "growing up"],
+    "emotions": ["wonder", "anxiety", "homesickness", "determination"],
+    "aesthetic": ["hand-drawn lushness", "Shinto folklore imagery", "bathhouse surrealism", "quiet ecological grief"]
+  },
+  {
+    "title": "Rashomon",
+    "creator": "Akira Kurosawa",
+    "type": "film",
+    "culture_of_origin": "Japanese",
+    "themes": ["subjectivity of truth", "honour and shame", "human self-deception", "the unknowability of others"],
+    "emotions": ["moral unease", "suspense", "ambiguity", "existential doubt"],
+    "aesthetic": ["dappled forest light", "classical Japanese theatrical gesture", "elliptical narrative", "rain as omen"]
+  },
+  {
+    "title": "A Separation",
+    "creator": "Asghar Farhadi",
+    "type": "film",
+    "culture_of_origin": "Iranian",
+    "themes": ["moral compromise", "class and dignity", "marital dissolution", "duty to family", "impossible choices"],
+    "emotions": ["moral anxiety", "quiet desperation", "compassion", "frustration"],
+    "aesthetic": ["social realism", "claustrophobic domestic spaces", "ethical ambiguity without resolution", "handheld intimacy"]
+  },
+  {
+    "title": "The Colour of Paradise",
+    "creator": "Majid Majidi",
+    "type": "film",
+    "culture_of_origin": "Iranian",
+    "themes": ["spiritual longing", "parental rejection", "the divine in nature", "disability and vulnerability", "love and abandonment"],
+    "emotions": ["heartache", "transcendence", "tenderness", "quiet anguish"],
+    "aesthetic": ["lush rural Iranian landscape", "sensory close-ups", "spiritual symbolism", "devastating simplicity"]
+  },
+  {
+    "title": "Xala",
+    "creator": "Ousmane Sembene",
+    "type": "film",
+    "culture_of_origin": "Senegalese",
+    "themes": ["post-colonial hypocrisy", "traditional curse and modernity", "corruption of the elite", "sexual impotence as political metaphor"],
+    "emotions": ["satirical contempt", "indignation", "dark humour", "bitter irony"],
+    "aesthetic": ["Dakar urban realism", "Wolof cultural ritual", "sharp political allegory", "neorealist observation"]
+  },
+  {
+    "title": "Moolaade",
+    "creator": "Ousmane Sembene",
+    "type": "film",
+    "culture_of_origin": "West African (Burkinabe)",
+    "themes": ["female solidarity", "tradition versus liberation", "courage of the ordinary", "protection of the vulnerable", "change from within"],
+    "emotions": ["defiance", "sisterhood", "moral courage", "hope"],
+    "aesthetic": ["vivid village colour", "communal gathering space", "oral tradition", "the symbolic power of objects"]
+  },
+  {
+    "title": "Raise the Red Lantern",
+    "creator": "Zhang Yimou",
+    "type": "film",
+    "culture_of_origin": "Chinese",
+    "themes": ["patriarchal captivity", "women competing under oppression", "ritual as control", "silent rebellion", "longing for autonomy"],
+    "emotions": ["suffocation", "bitterness", "desire", "dread"],
+    "aesthetic": ["stark architectural geometry", "red and shadow symbolism", "extreme formalism", "claustrophobic beauty"]
+  },
+  {
+    "title": "Farewell My Concubine",
+    "creator": "Chen Kaige",
+    "type": "film",
+    "culture_of_origin": "Chinese",
+    "themes": ["identity forged through performance", "political upheaval and personal loss", "obsessive love", "self-destruction", "historical trauma"],
+    "emotions": ["passionate obsession", "grief", "nostalgia", "betrayal"],
+    "aesthetic": ["Peking opera as life", "the weight of history", "lush melancholy", "theatrical artifice and raw feeling"]
+  },
+  {
+    "title": "Winter Sleep",
+    "creator": "Nuri Bilge Ceylan",
+    "type": "film",
+    "culture_of_origin": "Turkish",
+    "themes": ["intellectual self-delusion", "class contempt disguised as generosity", "marital stagnation", "moral complacency", "Anatolian isolation"],
+    "emotions": ["cold introspection", "suppressed rage", "existential ennui", "bitter self-recognition"],
+    "aesthetic": ["Cappadocian cave landscape", "long slow dialogue scenes", "Chekhovian texture", "snow and silence"]
+  },
+  {
+    "title": "City of God",
+    "creator": "Fernando Meirelles",
+    "type": "film",
+    "culture_of_origin": "Brazilian",
+    "themes": ["cycles of urban violence", "survival through art", "poverty and agency", "the witness who escapes", "coming of age in chaos"],
+    "emotions": ["visceral urgency", "dark exhilaration", "grief", "stubborn hope"],
+    "aesthetic": ["kinetic favela cinematography", "jump-cut energy", "saturated colour", "non-linear time"]
+  },
+  {
+    "title": "Roma",
+    "creator": "Alfonso Cuarón",
+    "type": "film",
+    "culture_of_origin": "Mexican",
+    "themes": ["domestic labour as invisible heroism", "class and race in Mexico City", "grief and female endurance", "loyalty across hierarchy", "political violence entering private life"],
+    "emotions": ["quiet devotion", "devastating loss", "love without language", "melancholy tenderness"],
+    "aesthetic": ["black-and-white memory texture", "long observational takes", "sound design as emotion", "Mexico City 1970s specificity"]
+  },
+  {
+    "title": "Parasite",
+    "creator": "Bong Joon-ho",
+    "type": "film",
+    "culture_of_origin": "Korean",
+    "themes": ["class resentment and aspiration", "architecture of inequality", "the violence beneath politeness", "plans that spiral out of control", "the smell of poverty"],
+    "emotions": ["dark comedy tension", "moral ambivalence", "sudden horror", "bitter irony"],
+    "aesthetic": ["precise production design", "genre-switching tonal whiplash", "the semi-basement as metaphor", "rain as catastrophe"]
+  },
+  {
+    "title": "Poetry",
+    "creator": "Lee Chang-dong",
+    "type": "film",
+    "culture_of_origin": "Korean",
+    "themes": ["beauty in the face of tragedy", "female aging and erasure", "moral awakening too late", "memory and dementia", "art as reckoning"],
+    "emotions": ["aching tenderness", "moral guilt", "wonder", "quiet devastation"],
+    "aesthetic": ["naturalistic light", "unhurried dailiness", "the weight of flowers", "restrained emotional devastation"]
+  },
+  {
+    "title": "Stalker",
+    "creator": "Andrei Tarkovsky",
+    "type": "film",
+    "culture_of_origin": "Russian",
+    "themes": ["spiritual quest into the unknown", "faith without proof", "the journey that transforms the traveller", "the Zone as inner landscape", "desire and its costs"],
+    "emotions": ["existential dread", "reverence", "yearning", "philosophical despair"],
+    "aesthetic": ["post-industrial wasteland poetry", "sepia and colour contrast", "slow meditative camera", "water and decay"]
+  },
+  {
+    "title": "The Mirror",
+    "creator": "Andrei Tarkovsky",
+    "type": "film",
+    "culture_of_origin": "Russian",
+    "themes": ["memory and its unreliability", "longing for home", "maternal love and its complications", "history and the personal", "guilt across generations"],
+    "emotions": ["nostalgic ache", "bewilderment", "tenderness", "historical grief"],
+    "aesthetic": ["fragmented non-linear memory", "slow fire and wind", "wartime archive footage", "lyric imagery over narrative logic"]
+  },
+  {
+    "title": "Cairo Station",
+    "creator": "Youssef Chahine",
+    "type": "film",
+    "culture_of_origin": "Egyptian",
+    "themes": ["unrequited obsession", "modernity colliding with tradition", "the marginalised in urban space", "working-class Egypt", "violence born of loneliness"],
+    "emotions": ["frustrated desire", "social unease", "dark pity", "urban alienation"],
+    "aesthetic": ["Egyptian neorealism", "documentary train station energy", "social melodrama", "tragic undertow"]
+  },
+  {
+    "title": "OK Computer",
+    "creator": "Radiohead",
+    "type": "album",
+    "culture_of_origin": "British",
+    "themes": ["alienation in late capitalism", "technology anxiety", "paranoia and surveillance", "spiritual emptiness", "modern disconnection"],
+    "emotions": ["dread", "dissociation", "yearning for connection", "cold beauty"],
+    "aesthetic": ["orchestral rock dissonance", "abstract lyric imagery", "paranoid grandeur", "the beautiful and the horrible coexisting"]
+  },
+  {
+    "title": "Funeral",
+    "creator": "Arcade Fire",
+    "type": "album",
+    "culture_of_origin": "Canadian (Quebec-influenced)",
+    "themes": ["grief and renewal", "suburban alienation", "childhood lost to adulthood", "collective mourning", "urgency of being alive"],
+    "emotions": ["cathartic grief", "wild hope", "nostalgia", "communal urgency"],
+    "aesthetic": ["anthemic grandeur", "Quebecois winter imagery", "baroque rock excess", "chamber intimacy"]
+  },
+  {
+    "title": "Illmatic",
+    "creator": "Nas",
+    "type": "album",
+    "culture_of_origin": "African American (New York)",
+    "themes": ["coming of age in poverty", "street survival and moral complexity", "the beauty inside hardship", "racial injustice", "memory of a neighbourhood"],
+    "emotions": ["cool melancholy", "defiant pride", "street-level anger", "nostalgic longing"],
+    "aesthetic": ["jazz-inflected boom bap", "cinematic storytelling", "dense street-level imagery", "New York City as character"]
+  },
+  {
+    "title": "Miseducation of Lauryn Hill",
+    "creator": "Lauryn Hill",
+    "type": "album",
+    "culture_of_origin": "African American",
+    "themes": ["spiritual awakening through heartbreak", "Black womanhood and self-possession", "love's disillusionment", "maternal devotion", "reclaiming the self"],
+    "emotions": ["raw grief", "defiant joy", "spiritual fervour", "tenderness"],
+    "aesthetic": ["neo-soul warmth", "gospel undercurrent", "live band intimacy", "confessional directness"]
+  },
+  {
+    "title": "Madvillainy",
+    "creator": "Madvillain (MF DOOM & Madlib)",
+    "type": "album",
+    "culture_of_origin": "African American",
+    "themes": ["the villain as antihero", "wordplay as art form", "underground culture versus commerce", "comic book mythology", "cryptic wisdom"],
+    "emotions": ["wry cool", "intellectual pleasure", "playful menace", "underground pride"],
+    "aesthetic": ["abstract hip-hop collage", "lo-fi warmth", "dense internal rhyme", "found-sound surrealism"]
+  },
+  {
+    "title": "Homogenic",
+    "creator": "Bjork",
+    "type": "album",
+    "culture_of_origin": "Icelandic",
+    "themes": ["nature as emotional landscape", "technology and the organic body", "volcanic passion", "love as force of nature", "Icelandic geography as inner world"],
+    "emotions": ["primal intensity", "tender vulnerability", "ecstasy", "cold longing"],
+    "aesthetic": ["electronic beats and string orchestras", "arctic imagery", "avant-garde song structures", "the body as instrument"]
+  },
+  {
+    "title": "Amor, Curiosidad, Prozac y Dudas",
+    "creator": "Lucia Etxebarria",
+    "type": "book",
+    "culture_of_origin": "Spanish",
+    "themes": ["urban female identity", "pharmaceutical culture and emotional numbing", "sisterhood and jealousy", "sexual politics in Madrid", "searching for meaning in modern life"],
+    "emotions": ["restless yearning", "dark humour", "feminist anger", "vulnerability"],
+    "aesthetic": ["contemporary urban prose", "pop cultural satire", "confessional intimacy", "Madrid night life as backdrop"]
+  },
+  {
+    "title": "The God of Small Things",
+    "creator": "Arundhati Roy",
+    "type": "book",
+    "culture_of_origin": "South Indian (Kerala)",
+    "themes": ["caste taboo and forbidden love", "childhood memory as wound", "postcolonial Kerala", "the catastrophe of breaking the Love Laws", "grief across time"],
+    "emotions": ["lush melancholy", "sensory nostalgia", "moral outrage", "deep tenderness"],
+    "aesthetic": ["lyric prose that circles its wound", "Kerala backwater sensory detail", "non-linear structure", "the political in the personal"]
+  },
+  {
+    "title": "Half of a Yellow Sun",
+    "creator": "Chimamanda Ngozi Adichie",
+    "type": "book",
+    "culture_of_origin": "Igbo Nigerian",
+    "themes": ["the Biafra war and civilian cost", "intellectual life under political collapse", "love tested by history", "post-colonial identity and class", "the stories we tell about war"],
+    "emotions": ["historical grief", "passionate love", "moral complexity", "solidarity"],
+    "aesthetic": ["richly detailed social world", "polyphonic perspective", "Igbo domestic life as political", "historical urgency"]
+  },
+  {
+    "title": "Things Fall Apart",
+    "creator": "Chinua Achebe",
+    "type": "book",
+    "culture_of_origin": "Igbo Nigerian",
+    "themes": ["colonial destruction of culture", "masculinity and its traps", "the dignity of Igbo civilization", "change and its violence", "a hero undone by his own rigidity"],
+    "emotions": ["tragic gravity", "cultural pride", "grief", "moral ambivalence"],
+    "aesthetic": ["Igbo oral tradition rhythm", "proverb as structure", "measured tragic arc", "the colonial archive dismantled from within"]
+  },
+  {
+    "title": "Beloved",
+    "creator": "Toni Morrison",
+    "type": "book",
+    "culture_of_origin": "African American",
+    "themes": ["the haunting of slavery", "motherhood and impossible choices", "trauma's embodiment", "the cost of survival", "community as healing and judgement"],
+    "emotions": ["grief beyond language", "love as violence", "dread", "fierce maternal devotion"],
+    "aesthetic": ["Gothic tonal richness", "non-linear memory flood", "vernacular lyricism", "the haunted house as American history"]
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "creator": "Gabriel Garcia Marquez",
+    "type": "book",
+    "culture_of_origin": "Colombian Caribbean",
+    "themes": ["cyclical history", "solitude as destiny", "the magical and the real coexisting", "the decline of a family dynasty", "political violence in Latin America"],
+    "emotions": ["grandeur", "melancholy irony", "wonder", "fatalistic acceptance"],
+    "aesthetic": ["magical realism", "multigenerational saga", "tropical fecundity", "the matter-of-fact miraculous"]
+  },
+  {
+    "title": "Pedro Paramo",
+    "creator": "Juan Rulfo",
+    "type": "book",
+    "culture_of_origin": "Mexican",
+    "themes": ["the dead who will not leave", "paternal absence and longing", "the violence of caciquismo", "the Mexican landscape as grief", "love as destruction"],
+    "emotions": ["spectral longing", "haunted melancholy", "mythic dread", "arid desolation"],
+    "aesthetic": ["whispered dead voices", "non-linear ghost narrative", "Jalisco desert landscape", "minimal lyric intensity"]
+  },
+  {
+    "title": "Please Look After Mom",
+    "creator": "Kyung-Sook Shin",
+    "type": "book",
+    "culture_of_origin": "Korean",
+    "themes": ["maternal sacrifice rendered invisible", "filial guilt", "the modern city's severance from roots", "loss that arrives before death", "the burden of love unreturned"],
+    "emotions": ["devastating guilt", "tender grief", "nostalgic ache", "regret"],
+    "aesthetic": ["second-person intimacy", "Korean domestic warmth", "understated emotional devastation", "working-class rural memory"]
+  },
+  {
+    "title": "Never Let Me Go",
+    "creator": "Kazuo Ishiguro",
+    "type": "book",
+    "culture_of_origin": "Japanese British",
+    "themes": ["mortality and acceptance", "the ethics of exploitation", "repressed memory", "the quiet devastation of a life with no future", "love in the face of the inevitable"],
+    "emotions": ["gentle dread", "resigned sorrow", "tender love", "quiet horror"],
+    "aesthetic": ["restrained understatement", "pastoral English setting as deception", "retrospective narration", "the unsaid as main character"]
+  },
+  {
+    "title": "The White Tiger",
+    "creator": "Aravind Adiga",
+    "type": "book",
+    "culture_of_origin": "Indian",
+    "themes": ["class resentment and violent ambition", "the rooster coop of poverty", "corruption as the system", "entrepreneurship born of desperation", "dark comedy of Indian inequality"],
+    "emotions": ["bitter irony", "ruthless ambition", "dark humour", "moral corruption"],
+    "aesthetic": ["confessional epistolary form", "Bangalore and Delhi contrast", "Swiftian satire", "the unreliable villain as narrator"]
+  },
+  {
+    "title": "Souad",
+    "creator": "Warda Al-Jazairia",
+    "type": "album",
+    "culture_of_origin": "Algerian Egyptian",
+    "themes": ["romantic longing", "pan-Arab femininity", "exile and belonging", "the golden age of Arabic music", "emotional grandeur"],
+    "emotions": ["passionate longing", "warmth", "tender sadness", "romantic fervour"],
+    "aesthetic": ["orchestral Arabic maqam", "golden age production", "theatrical vocal drama", "North African and Levantine fusion"]
+  },
+  {
+    "title": "Yeelen",
+    "creator": "Souleymane Cisse",
+    "type": "film",
+    "culture_of_origin": "Malian",
+    "themes": ["father-son conflict across generations", "sacred knowledge and its dangers", "initiation and transformation", "Bambara spiritual cosmology", "the cost of power"],
+    "emotions": ["mythic dread", "spiritual awe", "inevitable tragedy", "ancient solemnity"],
+    "aesthetic": ["Malian landscape as sacred space", "Bambara ritual imagery", "slow mythological rhythm", "light and darkness symbolism"]
+  },
+  {
+    "title": "Buena Vista Social Club",
+    "creator": "Ry Cooder / Various Artists",
+    "type": "album",
+    "culture_of_origin": "Cuban",
+    "themes": ["memory and musical survival", "the dignity of the old", "Havana as a time capsule", "nostalgic joy", "lives lived through song"],
+    "emotions": ["bittersweet nostalgia", "warmth", "joyful melancholy", "communal pride"],
+    "aesthetic": ["son cubano and bolero", "Havana decay and elegance", "veteran performers rediscovered", "acoustic intimacy"]
+  },
+  {
+    "title": "Persepolis",
+    "creator": "Marjane Satrapi",
+    "type": "book",
+    "culture_of_origin": "Iranian",
+    "themes": ["growing up under theocracy", "exile and identity", "female resistance", "the gap between official history and lived experience", "family across political catastrophe"],
+    "emotions": ["defiance", "grief", "dark humour", "nostalgia"],
+    "aesthetic": ["black-and-white graphic memoir", "Persian visual motifs", "sardonic wit", "political history through personal story"]
+  },
+  {
+    "title": "Paprika",
+    "creator": "Satoshi Kon",
+    "type": "film",
+    "culture_of_origin": "Japanese",
+    "themes": ["the boundary between dreams and reality", "technology invading the psyche", "repressed desire erupting", "identity fragmentation", "the chaos beneath the surface"],
+    "emotions": ["surreal wonder", "anxiety", "exhilaration", "dread"],
+    "aesthetic": ["kaleidoscopic dream imagery", "Baroque visual excess", "urban Tokyo surrealism", "jazz-inflected score"]
+  },
+  {
+    "title": "The Battle of Algiers",
+    "creator": "Gillo Pontecorvo",
+    "type": "film",
+    "culture_of_origin": "Algerian",
+    "themes": ["anti-colonial resistance", "the ethics of political violence", "state terror versus guerrilla terror", "collective sacrifice", "the birth of a nation through struggle"],
+    "emotions": ["moral complexity", "solidarity", "dread", "revolutionary urgency"],
+    "aesthetic": ["docudrama realism", "black-and-white Algiers casbah", "Ennio Morricone score", "the crowd as protagonist"]
+  },
+  {
+    "title": "Midnight's Children",
+    "creator": "Salman Rushdie",
+    "type": "book",
+    "culture_of_origin": "Indian (Bombay)",
+    "themes": ["personal fate entwined with national history", "magical gifts as burden", "post-partition identity", "the unreliable self-narrator", "memory as fiction"],
+    "emotions": ["exuberant melancholy", "wonder", "historical grief", "bitter irony"],
+    "aesthetic": ["Bombay verbal excess", "magical realism meeting political history", "stream-of-consciousness sprawl", "Scheherazade structure"]
+  },
+  {
+    "title": "Like Water for Chocolate",
+    "creator": "Laura Esquivel",
+    "type": "book",
+    "culture_of_origin": "Mexican",
+    "themes": ["repressed desire and its leakage into the world", "food as emotion", "maternal tyranny", "domestic space as political", "magic in the feminine everyday"],
+    "emotions": ["frustrated longing", "sensual warmth", "bitter sorrow", "magical tenderness"],
+    "aesthetic": ["magical realism", "recipe as chapter structure", "Mexican Northern domestic detail", "the body and emotion fused"]
+  },
+  {
+    "title": "Tropicalia",
+    "creator": "Various (Caetano Veloso, Gilberto Gil et al.)",
+    "type": "album",
+    "culture_of_origin": "Brazilian",
+    "themes": ["cultural cannibalism and synthesis", "modernism in the tropics", "resistance to dictatorship through art", "Brazilian national identity reimagined", "pop as political weapon"],
+    "emotions": ["subversive joy", "irreverent energy", "tropical melancholy", "political defiance"],
+    "aesthetic": ["bossa nova meets electric guitar", "Brazilian popular culture collage", "kitsch and avant-garde fused", "Oswald de Andrade's anthropophagy made musical"]
+  },
+  {
+    "title": "In the Mood for Love",
+    "creator": "Wong Kar-wai",
+    "type": "film",
+    "culture_of_origin": "Hong Kong Chinese",
+    "themes": ["repressed desire", "longing without consummation", "nostalgia and time", "propriety trapping the heart", "the past that cannot be revisited"],
+    "emotions": ["aching longing", "beautiful restraint", "melancholy desire", "exquisite sadness"],
+    "aesthetic": ["slow-motion cheongsam corridors", "Nat King Cole in Spanish", "1960s Hong Kong claustrophobia", "time as texture"]
+  },
+  {
+    "title": "Ceremony",
+    "creator": "Leslie Marmon Silko",
+    "type": "book",
+    "culture_of_origin": "Laguna Pueblo Native American",
+    "themes": ["healing through cultural reconnection", "the wound of war on the Native veteran", "ceremony as medicine", "colonial trauma and recovery", "land as living presence"],
+    "emotions": ["fragmented grief", "tentative healing", "spiritual seeking", "deep rootedness"],
+    "aesthetic": ["Laguna oral poetry woven into prose", "New Mexico landscape as sacred", "ceremony and narrative fused", "non-Western time structure"]
+  },
+  {
+    "title": "The Lives of Others",
+    "creator": "Florian Henckel von Donnersmarck",
+    "type": "film",
+    "culture_of_origin": "East German",
+    "themes": ["surveillance and the erosion of the private self", "the moral awakening of a watcher", "art as resistance", "love tested by the police state", "complicity and redemption"],
+    "emotions": ["cold dread", "moral awakening", "quiet compassion", "tragic irony"],
+    "aesthetic": ["East Berlin grey brutalism", "piano as soul", "Stasi procedural realism", "the tender moment inside the system"]
+  },
+  {
+    "title": "Arzak Rhapsody",
+    "creator": "Juan Gris / Moebius (Jean Giraud)",
+    "type": "book",
+    "culture_of_origin": "French",
+    "themes": ["cosmic wandering", "desert as spiritual landscape", "silent communication", "the alien familiar", "time without urgency"],
+    "emotions": ["serene wonder", "cosmic solitude", "playful mystery", "meditative peace"],
+    "aesthetic": ["ligne claire graphic art", "Saharan planetary landscape", "wordless visual storytelling", "science fiction as Zen parable"]
+  },
+  {
+    "title": "Kirikou and the Sorceress",
+    "creator": "Michel Ocelot",
+    "type": "film",
+    "culture_of_origin": "West African (pan-African)",
+    "themes": ["the small hero who outsmarts the powerful", "empathy as the answer to evil", "community protection", "childhood courage", "the wound beneath the witch's cruelty"],
+    "emotions": ["wonder", "communal warmth", "gentle courage", "joyful revelation"],
+    "aesthetic": ["flat West African village art style", "vivid colour palette", "oral folktale rhythm", "the baobab as world"]
+  },
+  {
+    "title": "Samsara",
+    "creator": "Pan Nalin",
+    "type": "film",
+    "culture_of_origin": "Himalayan (Ladakhi)",
+    "themes": ["monastic vows versus earthly desire", "spiritual transcendence and embodied life", "the wheel of rebirth", "love as temptation", "Himalayan Buddhist cosmology"],
+    "emotions": ["spiritual yearning", "erotic awakening", "moral conflict", "serene melancholy"],
+    "aesthetic": ["Himalayan landscape grandeur", "monastery silence", "sensory earthly beauty", "Buddhist iconography"]
+  },
+  {
+    "title": "The Tin Drum",
+    "creator": "Gunter Grass",
+    "type": "book",
+    "culture_of_origin": "German Polish",
+    "themes": ["refusal to grow up as political act", "the Nazi period through an unreliable child's eye", "Danzig as lost world", "guilt and complicity", "the grotesque as truth-telling"],
+    "emotions": ["grotesque black humour", "moral horror", "absurdist defiance", "melancholy excess"],
+    "aesthetic": ["magical grotesque", "Danzig Catholic and Polish texture", "scream as weapon", "unreliable narrator as method"]
+  },
+  {
+    "title": "I Am the Night",
+    "creator": "Amr Diab",
+    "type": "album",
+    "culture_of_origin": "Egyptian",
+    "themes": ["romantic longing", "Mediterranean crosscultural yearning", "the pain of love's absence", "nostalgia for a lost beloved", "the night as emotional landscape"],
+    "emotions": ["tender longing", "romantic intensity", "nostalgic warmth", "Mediterranean ease"],
+    "aesthetic": ["Mediterranean pop", "Egyptian Arabic maqam", "lush string arrangements", "beach-front romantic imagery"]
+  },
+  {
+    "title": "My Brilliant Friend",
+    "creator": "Elena Ferrante",
+    "type": "book",
+    "culture_of_origin": "Neapolitan Italian",
+    "themes": ["female friendship as rivalry and devotion", "class escape and its cost", "Naples as cage and home", "female intellectual ambition", "the self remade through the other"],
+    "emotions": ["intense admiration", "jealousy", "fierce loyalty", "nostalgic pain"],
+    "aesthetic": ["Neapolitan neighbourhood as cosmos", "the interior female self", "social realism of post-war Italy", "the ambivalent unreliable female narrator"]
+  },
+  {
+    "title": "Spring, Summer, Fall, Winter... and Spring",
+    "creator": "Kim Ki-duk",
+    "type": "film",
+    "culture_of_origin": "Korean",
+    "themes": ["Buddhist cycles of desire and consequence", "temptation and its cost", "nature as teacher", "guilt and penance", "the monastery as world in miniature"],
+    "emotions": ["contemplative stillness", "erotic awakening", "moral weight", "serene acceptance"],
+    "aesthetic": ["floating temple on Korean mountain lake", "seasonal time structure", "near-silent cinema", "Buddhist visual symbolism"]
+  },
+  {
+    "title": "The Tin Flute",
+    "creator": "Gabrielle Roy",
+    "type": "book",
+    "culture_of_origin": "French Canadian",
+    "themes": ["poverty and the dream of escape", "wartime and working-class Montreal", "female longing for a different life", "the weight of family on individual aspiration", "love and economic reality"],
+    "emotions": ["tender melancholy", "frustrated desire", "familial warmth", "quiet desperation"],
+    "aesthetic": ["Saint-Henri Montreal realism", "Great Depression and wartime texture", "lyric social realism", "Quebecois working-class detail"]
+  },
+  {
+    "title": "Siddhartha",
+    "creator": "Hermann Hesse",
+    "type": "book",
+    "culture_of_origin": "German (India-inspired)",
+    "themes": ["spiritual seeking across doctrines", "the river as teacher", "desire before enlightenment", "the path as the destination", "Eastern philosophy through Western eyes"],
+    "emotions": ["spiritual yearning", "peaceful acceptance", "restless seeking", "transcendent calm"],
+    "aesthetic": ["lyric contemplative prose", "river as symbol", "Indian Vedic atmosphere", "parable-like simplicity"]
+  },
+  {
+    "title": "Wild Strawberries",
+    "creator": "Ingmar Bergman",
+    "type": "film",
+    "culture_of_origin": "Swedish",
+    "themes": ["life's regrets confronted at the end", "coldness toward those we love", "the dream of what we might have been", "reconciliation with mortality", "the journey as inner reckoning"],
+    "emotions": ["autumnal regret", "quiet grief", "unexpected tenderness", "peaceful resignation"],
+    "aesthetic": ["Swedish summer light", "memory dream sequences", "minimalist emotional precision", "the road film as interior journey"]
+  },
+  {
+    "title": "Chronicle of a Blood Merchant",
+    "creator": "Yu Hua",
+    "type": "book",
+    "culture_of_origin": "Chinese",
+    "themes": ["endurance under extreme suffering", "the dignity of the ordinary Chinese life", "Maoist era violence and its aftermath", "fatherhood as sacrifice", "survival without heroism"],
+    "emotions": ["stoic grief", "dark irony", "quiet devotion", "historical devastation"],
+    "aesthetic": ["plain prose that accumulates weight", "Chinese countryside realism", "understated tragedy", "the body as economic resource"]
+  },
+  {
+    "title": "Princess Mononoke",
+    "creator": "Hayao Miyazaki",
+    "type": "film",
+    "culture_of_origin": "Japanese",
+    "themes": ["humans versus nature", "the grey zone of moral conflict", "ecological grief", "the warrior caught between worlds", "the sacred in the natural"],
+    "emotions": ["epic moral tension", "ecological grief", "awe", "fierce determination"],
+    "aesthetic": ["Muromachi Japan", "forest spirits and iron foundries", "lush ecological animation", "ambiguous moral heroism"]
+  },
+  {
+    "title": "L'Enfant",
+    "creator": "Jean-Pierre and Luc Dardenne",
+    "type": "film",
+    "culture_of_origin": "Belgian",
+    "themes": ["moral awakening through crisis", "fatherhood and its failure", "urban poverty in Europe", "the redemptive act too late and just in time", "the body doing what words cannot"],
+    "emotions": ["moral urgency", "desperate guilt", "tentative grace", "cold realism"],
+    "aesthetic": ["Liege industrial landscape", "handheld social realism", "no score", "the long take as moral witness"]
+  },
+  {
+    "title": "Neon Genesis Evangelion",
+    "creator": "Hideaki Anno",
+    "type": "film",
+    "culture_of_origin": "Japanese",
+    "themes": ["depression and self-annihilation", "the terror of intimacy", "parental abandonment", "apocalypse as psychological event", "the self refusing to exist"],
+    "emotions": ["existential despair", "adolescent anguish", "strange tender hope", "psychological horror"],
+    "aesthetic": ["mecha anime deconstructed", "introspective psychological interiority", "classical music against apocalypse", "Tokyo-3 as psyche"]
+  }
+]

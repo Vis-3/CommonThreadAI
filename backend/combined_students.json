@@ -1,0 +1,1724 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "email": "spalu002@ucr.edu",
+      "preferences": {
+        "films": [
+          "Interstellar",
+          "Knives Out",
+          "Fantastic Mr. Fox",
+          "Intern",
+          "The Martian",
+          "Scott Pilgrim vs The World"
+        ],
+        "youtube": [
+          "What if the Earth rotated 90 degrees?",
+          "moving to nyc alone  slow cozy days, staying at home, cooking, sleepovers, packing for trip!",
+          "What if the sun suddenly went out?",
+          "The Worst Time in History to be Born as a Human"
+        ],
+        "books": [
+          "Lessons in Chemistry",
+          "Love, Theoretically",
+          "Three Dark Crowns",
+          "One Dark Throne",
+          "Two Dark Reigns",
+          "The Seven Husbands of Evelyn Hugo",
+          "The Secret History",
+          "Babel"
+        ],
+        "artists_music": [
+          "Harry Styles",
+          "Glass Animals",
+          "Panic! At the Disco",
+          "The Weeknd",
+          "COIN",
+          "Lorde",
+          "Green Day",
+          "Olivia Rodrigo"
+        ],
+        "food_places": [
+          "Indian Food",
+          "Italian Food",
+          "California Burritos",
+          "In n Out",
+          "Pho"
+        ]
+      }
+    },
+    {
+      "id": "user2",
+      "email": "nguti034@ucr.edu",
+      "preferences": {
+        "films": [
+          "La La Land",
+          "The Substance",
+          "Coraline",
+          "Fantastic Mr. Fox",
+          "The Notebook",
+          "Inception",
+          "Scott Pilgrim vs The World"
+        ],
+        "youtube": [
+          "6AM peaceful spring morning  mindful steps for a productive day",
+          "Early spring in London Fav bakery run Tate Modern, Mayfair Chippy fish&chips, My flower workshop",
+          "the tinker bell cinematic universe",
+          "Girls Try Each Other's Girl Dinners (again)"
+        ],
+        "books": [
+          "People We Meet on Vacation",
+          "The Seven Husbands of Evelyn Hugo",
+          "Remarkably Bright Creatures",
+          "Every Summer After",
+          "Love, Theoretically",
+          "Beach Read",
+          "Paper Towns",
+          "The Perks of Being a Wallflower"
+        ],
+        "artists_music": [
+          "Harry Styles",
+          "Shakira",
+          "Bad Bunny",
+          "The Weeknd",
+          "One Direction",
+          "Tate McRae",
+          "Zara Larsson",
+          "Fuerza Regina",
+          "Olivia Rodrigo"
+        ],
+        "food_places": [
+          "In n Out",
+          "Raising Cane's",
+          "Mexican Food",
+          "Margaritas",
+          "Korean BBQ",
+          "Hot Pot"
+        ]
+      }
+    },
+    {
+      "id": "user3",
+      "email": "kcast060@ucr.edu",
+      "preferences": {
+        "films": [
+          "Eternal Sunshine of the Spotless Mind",
+          "Lady Bird",
+          "The Grand Budapest Hotel",
+          "Everything Everywhere All at Once",
+          "Moonlight",
+          "Portrait of a Lady on Fire"
+        ],
+        "youtube": [
+          "cozy study with me",
+          "what if the moon disappeared?",
+          "solo trip to SF vlog",
+          "the friendship that ended and why i'm still thinking about it",
+          "space facts that will keep you up at night",
+          "i went to therapy for a year here's what happened"
+        ],
+        "books": [
+          "The Secret History",
+          "Circe",
+          "A Little Life",
+          "The Atlas Six",
+          "Normal People",
+          "Convenience Store Woman"
+        ],
+        "artists_music": [
+          "Mitski",
+          "Clairo",
+          "Phoebe Bridgers",
+          "Soccer Mommy",
+          "boygenius",
+          "Japanese Breakfast",
+          "Faye Webster"
+        ],
+        "food_places": [
+          "Raising Cane's",
+          "Korean BBQ",
+          "Japanese Food",
+          "Sushi",
+          "Mexican Food"
+        ]
+      }
+    },
+    {
+      "id": "user4",
+      "email": "evo012@ucr.edu",
+      "preferences": {
+        "films": [
+          "La La Land",
+          "Coco",
+          "Parasite",
+          "The Notebook",
+          "Mamma Mia",
+          "Crazy Rich Asians",
+          "To All the Boys I've Loved Before"
+        ],
+        "youtube": [
+          "productive day in my life",
+          "early morning in Miami",
+          "Girls Try Viral TikTok Recipes",
+          "Bad Bunny concert vlog",
+          "slow Sunday reset",
+          "what 30 dollars of groceries looks like in 10 different cities",
+          "i only wore vintage clothes for a month"
+        ],
+        "books": [
+          "People We Meet on Vacation",
+          "Beach Read",
+          "Every Summer After",
+          "One True Loves",
+          "It Ends with Us",
+          "In a Holidaze"
+        ],
+        "artists_music": [
+          "Bad Bunny",
+          "Shakira",
+          "Harry Styles",
+          "The Weeknd",
+          "Karol G",
+          "Olivia Rodrigo",
+          "One Direction",
+          "Peso Pluma"
+        ],
+        "food_places": [
+          "Cava",
+          "Italian Food",
+          "Paninis",
+          "Mendocino Farms",
+          "The Taco Stand",
+          "Butter Chicken"
+        ]
+      }
+    },
+    {
+      "id": "user5",
+      "email": "prich014@ucr.edu",
+      "preferences": {
+        "films": [
+          "The Martian",
+          "Interstellar",
+          "Spirited Away",
+          "Arrival",
+          "Annihilation",
+          "Parasite",
+          "Lost in Translation"
+        ],
+        "youtube": [
+          "a day in istanbul",
+          "packing for a solo trip to Japan",
+          "how long could you survive on mars with today's technology",
+          "what i wish someone had told me at 18",
+          "the town that disappeared overnight",
+          "living off grid for 30 days with no prior experience"
+        ],
+        "books": [
+          "Babel",
+          "Lessons in Chemistry",
+          "Remarkably Bright Creatures",
+          "The Midnight Library",
+          "Piranesi",
+          "Project Hail Mary"
+        ],
+        "artists_music": [
+          "Mitski",
+          "Hozier",
+          "Sufjan Stevens",
+          "Faye Webster",
+          "Bon Iver",
+          "Caroline Polachek",
+          "Lorde"
+        ],
+        "food_places": [
+          "Indian Food",
+          "Taco Bell",
+          "Ramen",
+          "Pasta"
+        ]
+      }
+    },
+    {
+      "id": "user6",
+      "email": "emilyw@iu.edu",
+      "preferences": {
+        "films": [
+          "The Notebook",
+          "Mamma Mia",
+          "Legally Blonde",
+          "Clueless",
+          "To All the Boys I've Loved Before",
+          "Bridget Jones's Diary"
+        ],
+        "youtube": [
+          "my morning routine",
+          "what i eat in a week (healthy-ish)",
+          "come thrifting with me in Bloomington",
+          "cozy fall day in my life",
+          "how i stay organized in college",
+          "grwm: first day of classes"
+        ],
+        "books": [
+          "It Ends with Us",
+          "The Hating Game",
+          "People We Meet on Vacation",
+          "Beach Read",
+          "In a Holidaze",
+          "Ugly Love"
+        ],
+        "artists_music": [
+          "Taylor Swift",
+          "Olivia Rodrigo",
+          "Harry Styles",
+          "Sabrina Carpenter",
+          "Gracie Abrams",
+          "Noah Kahan"
+        ],
+        "food_places": [
+          "Starbucks",
+          "Chipotle",
+          "Sweetgreen",
+          "Panera Bread",
+          "Chick-fil-A"
+        ]
+      }
+    },
+    {
+      "id": "user7",
+      "email": "jasonk@iu.edu",
+      "preferences": {
+        "films": [
+          "Remember the Titans",
+          "The Dark Knight",
+          "Top Gun: Maverick",
+          "Moneyball",
+          "We Are Marshall",
+          "Talladega Nights"
+        ],
+        "youtube": [
+          "IU Hoosiers game highlights",
+          "NFL week 12 breakdown",
+          "how to improve your jump shot",
+          "Pat McAfee Show clip",
+          "ranking every Big Ten team",
+          "best sports moments of 2024"
+        ],
+        "books": [
+          "Can't Hurt Me",
+          "Shoe Dog",
+          "The Obstacle Is the Way",
+          "Never Finished",
+          "Relentless"
+        ],
+        "artists_music": [
+          "Morgan Wallen",
+          "Luke Combs",
+          "Post Malone",
+          "Kendrick Lamar",
+          "Zac Brown Band",
+          "Jason Aldean"
+        ],
+        "food_places": [
+          "Buffalo Wild Wings",
+          "Raising Cane's",
+          "Jimmy John's",
+          "McDonald's",
+          "Cook Out"
+        ]
+      }
+    },
+    {
+      "id": "user8",
+      "email": "sooyeonp@iu.edu",
+      "preferences": {
+        "films": [
+          "Parasite",
+          "Your Name",
+          "Train to Busan",
+          "The Handmaiden",
+          "Spirited Away",
+          "Drive My Car"
+        ],
+        "youtube": [
+          "BTS Permission to Dance live reaction",
+          "TWICE comeback stage 4K",
+          "learn korean with me in 30 days",
+          "kpop unboxing haul",
+          "stray kids concert vlog",
+          "ranking every aespa album"
+        ],
+        "books": [
+          "Pachinko",
+          "The Vegetarian",
+          "The Alchemist",
+          "Please Look After Mom",
+          "Convenience Store Woman"
+        ],
+        "artists_music": [
+          "BTS",
+          "BLACKPINK",
+          "TWICE",
+          "Stray Kids",
+          "aespa",
+          "NewJeans",
+          "IVE"
+        ],
+        "food_places": [
+          "Korean BBQ",
+          "Bonchon",
+          "Hot Pot",
+          "Boba Tea shops",
+          "Bibimbap bowls",
+          "Tofu House"
+        ]
+      }
+    },
+    {
+      "id": "user9",
+      "email": "marcusr@iu.edu",
+      "preferences": {
+        "films": [
+          "Chef",
+          "Julie & Julia",
+          "Jiro Dreams of Sushi",
+          "The Menu",
+          "Ratatouille",
+          "Burnt"
+        ],
+        "youtube": [
+          "Joshua Weissman: but cheaper",
+          "ranking every ramen spot in Indianapolis",
+          "i tried making boeuf bourguignon",
+          "24 hours eating only Michelin star food",
+          "Gordon Ramsay reacts to college cooking",
+          "the best hole-in-the-wall restaurants in the Midwest"
+        ],
+        "books": [
+          "Salt Fat Acid Heat",
+          "Kitchen Confidential",
+          "The French Laundry Cookbook",
+          "Plenty",
+          "Cooked"
+        ],
+        "artists_music": [
+          "Frank Ocean",
+          "Childish Gambino",
+          "Khruangbin",
+          "Mac Miller",
+          "SZA",
+          "Anderson .Paak"
+        ],
+        "food_places": [
+          "Lennie's",
+          "FARMbloomington",
+          "The Bluebird",
+          "Uptown Cafe",
+          "Anyetsang's Little Tibet",
+          "Farm to Fork Bloomington"
+        ]
+      }
+    },
+    {
+      "id": "user10",
+      "email": "hannahm@iu.edu",
+      "preferences": {
+        "films": [
+          "La La Land",
+          "Moulin Rouge",
+          "Into the Woods",
+          "Little Women",
+          "Tick Tick Boom",
+          "Whiplash"
+        ],
+        "youtube": [
+          "every Broadway show ranked",
+          "my experience at the Tony Awards",
+          "learning Defying Gravity in one week",
+          "day in the life of an IU Jacobs student",
+          "reacting to Les Misrables 25th anniversary",
+          "how i prep for auditions"
+        ],
+        "books": [
+          "The Phantom of the Opera",
+          "An Actor Prepares",
+          "The Art of Theatre",
+          "Hamlet",
+          "The Glass Menagerie",
+          "A Chorus Line (script)"
+        ],
+        "artists_music": [
+          "Stephen Sondheim",
+          "Jonathan Larson",
+          "Patti LuPone",
+          "Ben Platt",
+          "Audra McDonald",
+          "Idina Menzel"
+        ],
+        "food_places": [
+          "Chick-fil-A",
+          "Subway",
+          "Late Night Pie",
+          "Noodles & Company",
+          "The Runcible Spoon"
+        ]
+      }
+    },
+    {
+      "id": "user11",
+      "email": "tylerd@iu.edu",
+      "preferences": {
+        "films": [
+          "Old School",
+          "Animal House",
+          "The Hangover",
+          "Top Gun: Maverick",
+          "Superbad",
+          "Interstellar"
+        ],
+        "youtube": [
+          "college football rankings week 8",
+          "how to negotiate your salary",
+          "IU basketball game day vlog",
+          "frat house tour 2024",
+          "best tailgate games ranked",
+          "Dave Ramsey on student loans"
+        ],
+        "books": [
+          "The 48 Laws of Power",
+          "How to Win Friends and Influence People",
+          "Greenlights",
+          "The Lean Startup",
+          "Rich Dad Poor Dad"
+        ],
+        "artists_music": [
+          "Morgan Wallen",
+          "Luke Bryan",
+          "Post Malone",
+          "Drake",
+          "Travis Scott",
+          "Diplo"
+        ],
+        "food_places": [
+          "Blaze Pizza",
+          "Raising Cane's",
+          "Chipotle",
+          "Burger King",
+          "IHOP after midnight"
+        ]
+      }
+    },
+    {
+      "id": "user12",
+      "email": "priyap@iu.edu",
+      "preferences": {
+        "films": [
+          "Patch Adams",
+          "The Big Short",
+          "Contagion",
+          "Good Will Hunting",
+          "Interstellar",
+          "The Theory of Everything"
+        ],
+        "youtube": [
+          "day in the life of a pre-med student",
+          "how i got a 520 MCAT score",
+          "anki tutorial for medical school",
+          "study with me 10 hours",
+          "what i wish i knew before taking orgo",
+          "realistic pre-med morning routine"
+        ],
+        "books": [
+          "When Breath Becomes Air",
+          "The Emperor of All Maladies",
+          "Being Mortal",
+          "Educated",
+          "Mountains Beyond Mountains"
+        ],
+        "artists_music": [
+          "Mitski",
+          "Lorde",
+          "Phoebe Bridgers",
+          "Sufjan Stevens",
+          "The 1975",
+          "Bon Iver"
+        ],
+        "food_places": [
+          "Sweetgreen",
+          "Chipotle",
+          "Any campus dining hall",
+          "Smoothie King",
+          "Raising Cane's"
+        ]
+      }
+    },
+    {
+      "id": "user13",
+      "email": "lukeb@iu.edu",
+      "preferences": {
+        "films": [
+          "Moonlight",
+          "The Royal Tenenbaums",
+          "Mulholland Drive",
+          "2001: A Space Odyssey",
+          "Synecdoche New York",
+          "Eternal Sunshine of the Spotless Mind"
+        ],
+        "youtube": [
+          "every Kubrick film explained",
+          "why Inland Empire is misunderstood",
+          "how to make a short film on a budget",
+          "Letterboxd lists you need to see",
+          "the philosophy of Andrei Tarkovsky",
+          "best films of 2024 ranked"
+        ],
+        "books": [
+          "In Cold Blood",
+          "The Road",
+          "Kafka on the Shore",
+          "Blood Meridian",
+          "No Longer Human"
+        ],
+        "artists_music": [
+          "Radiohead",
+          "Car Seat Headrest",
+          "The National",
+          "Arca",
+          "Talk Talk",
+          "Arthur Russell"
+        ],
+        "food_places": [
+          "Runcible Spoon",
+          "Laughing Planet",
+          "Soma Coffee",
+          "Village Deli",
+          "Anatolia"
+        ]
+      }
+    },
+    {
+      "id": "user14",
+      "email": "breannak@iu.edu",
+      "preferences": {
+        "films": [
+          "Legally Blonde",
+          "Mean Girls",
+          "The Proposal",
+          "Crazy Rich Asians",
+          "How to Lose a Guy in 10 Days",
+          "Bridesmaids"
+        ],
+        "youtube": [
+          "sorority recruitment tips 2024",
+          "big/little reveal ideas",
+          "grwm for bid day",
+          "what i wear to class in a week",
+          "haul: Lululemon + Zara",
+          "moving into the chapter house"
+        ],
+        "books": [
+          "The Summer I Turned Pretty",
+          "It Ends with Us",
+          "Verity",
+          "Beautiful Ruins",
+          "The Hating Game",
+          "Daisy Jones and the Six"
+        ],
+        "artists_music": [
+          "Taylor Swift",
+          "Sabrina Carpenter",
+          "Gracie Abrams",
+          "Harry Styles",
+          "Chappell Roan",
+          "Billie Eilish"
+        ],
+        "food_places": [
+          "Chick-fil-A",
+          "Starbucks",
+          "Sweetgreen",
+          "Tropical Smoothie Cafe",
+          "Insomnia Cookies"
+        ]
+      }
+    },
+    {
+      "id": "user15",
+      "email": "devonr@iu.edu",
+      "preferences": {
+        "films": [
+          "Into the Wild",
+          "Wild",
+          "127 Hours",
+          "The Revenant",
+          "Free Solo",
+          "Meru"
+        ],
+        "youtube": [
+          "solo backpacking the Appalachian Trail",
+          "van life week 3: we broke down in Wyoming",
+          "best national parks for beginners",
+          "camping gear under $100",
+          "living out of a Subaru for 60 days",
+          "why i quit my job to hike"
+        ],
+        "books": [
+          "A Walk in the Woods",
+          "Wild",
+          "Into Thin Air",
+          "Desert Solitaire",
+          "The Snow Leopard",
+          "Endurance"
+        ],
+        "artists_music": [
+          "Hozier",
+          "Gregory Alan Isakov",
+          "Bon Iver",
+          "Fleet Foxes",
+          "Iron & Wine",
+          "Caamp"
+        ],
+        "food_places": [
+          "Chipotle",
+          "REI Cafe",
+          "Blaze Pizza",
+          "Local Grain",
+          "Harvest Table Bloomington"
+        ]
+      }
+    },
+    {
+      "id": "user16",
+      "email": "aaliyahj@iu.edu",
+      "preferences": {
+        "films": [
+          "The Devil Wears Prada",
+          "Clueless",
+          "Breakfast at Tiffany's",
+          "Priscilla",
+          "Portrait of a Lady on Fire",
+          "The Favourite"
+        ],
+        "youtube": [
+          "vintage shopping in NYC",
+          "what i wore this week (thrift flips)",
+          "how to build a capsule wardrobe on $200",
+          "styling every aesthetic for fall",
+          "nyfw street style 2024",
+          "come thrifting with me in Bloomington"
+        ],
+        "books": [
+          "The Beautiful and Damned",
+          "The Rules of Style",
+          "Just Kids",
+          "Fierce: The History of Leopard Print",
+          "How to Be Parisian Wherever You Are"
+        ],
+        "artists_music": [
+          "FKA twigs",
+          "Charli XCX",
+          "Dua Lipa",
+          "Solange",
+          "Arca",
+          "Caroline Polachek"
+        ],
+        "food_places": [
+          "Baked!",
+          "Soma Coffee",
+          "Feast Bloomington",
+          "The Bluebird",
+          "Laughing Planet"
+        ]
+      }
+    },
+    {
+      "id": "user17",
+      "email": "nathanc@iu.edu",
+      "preferences": {
+        "films": [
+          "Ready Player One",
+          "The Social Network",
+          "Tron: Legacy",
+          "Scott Pilgrim vs The World",
+          "Free Guy",
+          "Knives Out"
+        ],
+        "youtube": [
+          "Elden Ring all bosses no hit run",
+          "best gaming setup for under $800",
+          "ranking every FromSoftware game",
+          "i played Minecraft for 100 days straight",
+          "Ludwig reacts to gaming drama",
+          "the history of competitive Smash Bros"
+        ],
+        "books": [
+          "Ready Player One",
+          "Ender's Game",
+          "The Name of the Wind",
+          "Mistborn",
+          "All Systems Red"
+        ],
+        "artists_music": [
+          "Daft Punk",
+          "Kendrick Lamar",
+          "Tyler the Creator",
+          "Porter Robinson",
+          "Madeon",
+          "Glass Animals"
+        ],
+        "food_places": [
+          "Domino's",
+          "McDonald's",
+          "Jimmy John's",
+          "Buffalo Wild Wings",
+          "Pizza X Bloomington"
+        ]
+      }
+    },
+    {
+      "id": "user18",
+      "email": "sophiam@iu.edu",
+      "preferences": {
+        "films": [
+          "Eat Pray Love",
+          "Wild",
+          "Little Miss Sunshine",
+          "The Secret Life of Walter Mitty",
+          "Soul",
+          "Her"
+        ],
+        "youtube": [
+          "5am morning routine that changed my life",
+          "what i eat in a week (whole foods)",
+          "pilates at home 30 min full body",
+          "journaling prompts for self-discovery",
+          "how i reset my mental health",
+          "my night routine: no phone after 8pm"
+        ],
+        "books": [
+          "The Body Keeps the Score",
+          "Atomic Habits",
+          "The Alchemist",
+          "Maybe You Should Talk to Someone",
+          "Untamed",
+          "You Can Heal Your Life"
+        ],
+        "artists_music": [
+          "SZA",
+          "Jhen Aiko",
+          "Frank Ocean",
+          "Solange",
+          "Novo Amor",
+          "Still Woozy"
+        ],
+        "food_places": [
+          "Smoothie King",
+          "Sweetgreen",
+          "Seasons restaurant",
+          "Mother Bear's Pizza (occasionally)",
+          "The Inkwell Bloomington"
+        ]
+      }
+    },
+    {
+      "id": "user19",
+      "email": "conorb@iu.edu",
+      "preferences": {
+        "films": [
+          "The Wolf of Wall Street",
+          "The Big Short",
+          "Margin Call",
+          "American Psycho",
+          "Moneyball",
+          "Too Big to Fail"
+        ],
+        "youtube": [
+          "how i made $40k in the stock market at 21",
+          "Warren Buffett's investing principles explained",
+          "Wall Street oasis internship tips",
+          "Goldman Sachs vs JP Morgan culture",
+          "day in the life of an investment banking analyst",
+          "how to read an earnings report"
+        ],
+        "books": [
+          "The Intelligent Investor",
+          "Liar's Poker",
+          "Flash Boys",
+          "Barbarians at the Gate",
+          "The Big Short",
+          "Zero to One"
+        ],
+        "artists_music": [
+          "Drake",
+          "Travis Scott",
+          "Post Malone",
+          "Kanye West",
+          "Frank Ocean",
+          "The Weeknd"
+        ],
+        "food_places": [
+          "STK Steakhouse (on internship)",
+          "Chipotle",
+          "Raising Cane's",
+          "Shake Shack",
+          "Any bar with good whiskey"
+        ]
+      }
+    },
+    {
+      "id": "user20",
+      "email": "isabellat@iu.edu",
+      "preferences": {
+        "films": [
+          "Portrait of a Lady on Fire",
+          "Amlie",
+          "The Grand Budapest Hotel",
+          "Moonrise Kingdom",
+          "Paris, Texas",
+          "Lost in Translation"
+        ],
+        "youtube": [
+          "painting with me: gouache landscapes",
+          "visiting every art museum in Chicago",
+          "my sketchbook tour",
+          "how to find your art style",
+          "a week making ceramics in Bloomington",
+          "art history you weren't taught in school"
+        ],
+        "books": [
+          "The Picture of Dorian Gray",
+          "Just Kids",
+          "Big Magic",
+          "Ways of Seeing",
+          "The Diary of Frida Kahlo",
+          "When Things Fall Apart"
+        ],
+        "artists_music": [
+          "Mitski",
+          "Faye Webster",
+          "Weyes Blood",
+          "Ethel Cain",
+          "Japanese Breakfast",
+          "Angel Olsen"
+        ],
+        "food_places": [
+          "Soma Coffee",
+          "The Runcible Spoon",
+          "Anatolia",
+          "Baked!",
+          "Cafe Django"
+        ]
+      }
+    },
+    {
+      "id": "user21",
+      "email": "jordanh@iu.edu",
+      "preferences": {
+        "films": [
+          "Whiplash",
+          "Almost Famous",
+          "Control",
+          "Baby Driver",
+          "La La Land",
+          "The Wall"
+        ],
+        "youtube": [
+          "Adam Neely: music theory in Coltrane",
+          "Rick Beato reacts to modern pop",
+          "every Beatles album ranked and discussed",
+          "how to produce a lo-fi track from scratch",
+          "the music theory behind Radiohead",
+          "my vinyl collection tour"
+        ],
+        "books": [
+          "Just Kids",
+          "Life",
+          "The War of Art",
+          "How Music Works",
+          "Bowie: A Biography",
+          "Our Band Could Be Your Life"
+        ],
+        "artists_music": [
+          "Radiohead",
+          "Miles Davis",
+          "Coltrane",
+          "Sufjan Stevens",
+          "Joanna Newsom",
+          "Jeff Buckley"
+        ],
+        "food_places": [
+          "Lennie's",
+          "The Bluebird",
+          "Village Deli",
+          "Mother Bear's Pizza",
+          "Soma Coffee"
+        ]
+      }
+    },
+    {
+      "id": "user22",
+      "email": "amandal@iu.edu",
+      "preferences": {
+        "films": [
+          "Project X",
+          "Bridesmaids",
+          "The Hangover",
+          "Spring Breakers",
+          "Girls Trip",
+          "Pitch Perfect"
+        ],
+        "youtube": [
+          "IU game day vlog",
+          "college party outfits try-on haul",
+          "how i afford going out every weekend",
+          "GRWM: Saturday night",
+          "telling my parents i failed orgo",
+          "a week in Bloomington with my friends"
+        ],
+        "books": [
+          "The Summer I Turned Pretty",
+          "Confessions of a Shopaholic",
+          "Bridget Jones's Diary",
+          "Daisy Jones and the Six"
+        ],
+        "artists_music": [
+          "Doja Cat",
+          "Dua Lipa",
+          "Charli XCX",
+          "Bad Bunny",
+          "Karol G",
+          "Sabrina Carpenter",
+          "Flo Rida"
+        ],
+        "food_places": [
+          "Kilroy's Bar n Grill",
+          "Nick's English Hut",
+          "Upstairs Pub & Patio",
+          "Insomnia Cookies (at 2am)",
+          "Pizza X Bloomington"
+        ]
+      }
+    },
+    {
+      "id": "user23",
+      "email": "evanst@iu.edu",
+      "preferences": {
+        "films": [
+          "The Big Short",
+          "Spotlight",
+          "All the President's Men",
+          "Vice",
+          "The Post",
+          "Network"
+        ],
+        "youtube": [
+          "Ezra Klein podcast clip",
+          "how ranked choice voting actually works",
+          "the economics of housing explained",
+          "every US election since 1980 analyzed",
+          "explaining the federal reserve to a 5 year old",
+          "political science major Q&A"
+        ],
+        "books": [
+          "The New Jim Crow",
+          "Thinking Fast and Slow",
+          "The Federalist Papers",
+          "Why Nations Fail",
+          "Strangers in Their Own Land",
+          "1984"
+        ],
+        "artists_music": [
+          "Kendrick Lamar",
+          "Bob Dylan",
+          "Bruce Springsteen",
+          "The National",
+          "Vampire Weekend",
+          "LCD Soundsystem"
+        ],
+        "food_places": [
+          "FARMbloomington",
+          "Harvest Table",
+          "Chipotle",
+          "The Runcible Spoon",
+          "Cafe Django"
+        ]
+      }
+    },
+    {
+      "id": "user24",
+      "email": "graciep@iu.edu",
+      "preferences": {
+        "films": [
+          "Lady Bird",
+          "Eighth Grade",
+          "The Edge of Seventeen",
+          "Mid90s",
+          "Boyhood",
+          "Frances Ha"
+        ],
+        "youtube": [
+          "moving from a small town to college: my story",
+          "things i wish i knew freshman year",
+          "Bloomington Indiana: is it worth it?",
+          "first time flying alone vlog",
+          "how i paid for college without my parents",
+          "calling my mom every day in college"
+        ],
+        "books": [
+          "Where the Crawdads Sing",
+          "A Man Called Ove",
+          "The Help",
+          "Normal People",
+          "Little Fires Everywhere",
+          "Big Little Lies"
+        ],
+        "artists_music": [
+          "Noah Kahan",
+          "Kacey Musgraves",
+          "Taylor Swift",
+          "Brandi Carlile",
+          "Phoebe Bridgers",
+          "Gracie Abrams"
+        ],
+        "food_places": [
+          "Cracker Barrel",
+          "Chick-fil-A",
+          "Steak n Shake",
+          "Applebee's",
+          "Raising Cane's"
+        ]
+      }
+    },
+    {
+      "id": "user25",
+      "email": "miguelr@iu.edu",
+      "preferences": {
+        "films": [
+          "Coco",
+          "Roma",
+          "Pan's Labyrinth",
+          "Y Tu Mam Tambin",
+          "Amores Perros",
+          "Babel"
+        ],
+        "youtube": [
+          "international student life at IU",
+          "how to open a US bank account as an international student",
+          "Hispanic Heritage Month in Bloomington",
+          "Bad Bunny: i interviewed him in San Juan",
+          "Mexican recipes i miss most",
+          "things that shocked me moving to Indiana"
+        ],
+        "books": [
+          "One Hundred Years of Solitude",
+          "Pedro Pramo",
+          "The House of the Spirits",
+          "Like Water for Chocolate",
+          "The Alchemist"
+        ],
+        "artists_music": [
+          "Bad Bunny",
+          "Peso Pluma",
+          "Natanael Cano",
+          "Fuerza Regida",
+          "Karol G",
+          "Shakira",
+          "J Balvin"
+        ],
+        "food_places": [
+          "El Charrito Bloomington",
+          "Chipotle (when desperate)",
+          "Los Arcos",
+          "Burritos from home",
+          "Mi Ap Mexican Restaurant"
+        ]
+      }
+    },
+    {
+      "id": "user26",
+      "email": "brookew@iu.edu",
+      "preferences": {
+        "films": [
+          "Zodiac",
+          "Prisoners",
+          "Memories of a Murderer",
+          "Monster (Dahmer)",
+          "I Care a Lot",
+          "Gone Girl"
+        ],
+        "youtube": [
+          "the unsolved disappearance of Maura Murray",
+          "top 10 cold cases that were finally solved",
+          "Bella Gibson: the wellness fraud explained",
+          "reacting to Making a Murderer 10 years later",
+          "the Gilgo Beach murders timeline",
+          "why do we love true crime? a deep dive"
+        ],
+        "books": [
+          "I'll Be Gone in the Dark",
+          "Mindhunter",
+          "Say Nothing",
+          "In Cold Blood",
+          "Lost Girls",
+          "Devil in the White City"
+        ],
+        "artists_music": [
+          "Taylor Swift",
+          "Gracie Abrams",
+          "Olivia Rodrigo",
+          "Phoebe Bridgers",
+          "Fiona Apple",
+          "Lana Del Rey"
+        ],
+        "food_places": [
+          "Panera Bread",
+          "Starbucks",
+          "Insomnia Cookies",
+          "Chipotle",
+          "Late Night Slice"
+        ]
+      }
+    },
+    {
+      "id": "user27",
+      "email": "ashtonm@iu.edu",
+      "preferences": {
+        "films": [
+          "Mid90s",
+          "Lords of Dogtown",
+          "Kids",
+          "River's Edge",
+          "Jackass Forever",
+          "The Disaster Artist"
+        ],
+        "youtube": [
+          "skating downtown Indianapolis alone",
+          "thrift flipping skate clothes",
+          "learning a kickflip in 30 days",
+          "skating every spot in Bloomington",
+          "best skate videos of all time ranked",
+          "DIY skate ramp in my backyard"
+        ],
+        "books": [
+          "The Catcher in the Rye",
+          "Fight Club",
+          "The Electric Kool-Aid Acid Test",
+          "Ham on Rye",
+          "On the Road"
+        ],
+        "artists_music": [
+          "Turnstile",
+          "Jeff Rosenstock",
+          "PUP",
+          "Knocked Loose",
+          "Joyce Manor",
+          "Blink-182",
+          "FIDLAR"
+        ],
+        "food_places": [
+          "Taco Bell",
+          "Waffle House",
+          "Cookout",
+          "Whatever's cheapest",
+          "Jimmy John's"
+        ]
+      }
+    },
+    {
+      "id": "user28",
+      "email": "meganf@iu.edu",
+      "preferences": {
+        "films": [
+          "Freedom Writers",
+          "Dead Poets Society",
+          "School of Rock",
+          "Won't You Be My Neighbor?",
+          "Gifted",
+          "Matilda"
+        ],
+        "youtube": [
+          "teacher supply haul from Dollar Tree",
+          "classroom setup for my first year",
+          "day in the life: elementary student teaching",
+          "why i chose education over pre-med",
+          "cute bulletin board ideas for fall",
+          "things no one tells you about student teaching"
+        ],
+        "books": [
+          "The Book Thief",
+          "Wonder",
+          "Hatchet",
+          "Charlotte's Web",
+          "Educated",
+          "The Giver"
+        ],
+        "artists_music": [
+          "Kacey Musgraves",
+          "Ingrid Michaelson",
+          "Norah Jones",
+          "Harry Styles",
+          "Taylor Swift",
+          "The Lumineers"
+        ],
+        "food_places": [
+          "Panera Bread",
+          "Chick-fil-A",
+          "Noodles & Company",
+          "The Runcible Spoon",
+          "Any coffee shop with wifi"
+        ]
+      }
+    },
+    {
+      "id": "user29",
+      "email": "khalilj@iu.edu",
+      "preferences": {
+        "films": [
+          "The Social Network",
+          "Steve Jobs",
+          "The Pursuit of Happyness",
+          "Catch Me If You Can",
+          "Limitless",
+          "Moneyball"
+        ],
+        "youtube": [
+          "how i made $12k dropshipping at 20",
+          "Iman Gadzhi on building an agency",
+          "Alex Hormozi: the best advice for broke 20 year olds",
+          "cold email scripts that actually work",
+          "morning routine of a 21 year old CEO",
+          "how to network at IU Kelley"
+        ],
+        "books": [
+          "Zero to One",
+          "$100M Offers",
+          "The Lean Startup",
+          "Thinking and Growing Rich",
+          "The Hard Thing About Hard Things",
+          "Extreme Ownership"
+        ],
+        "artists_music": [
+          "Drake",
+          "Jay-Z",
+          "J. Cole",
+          "Kanye West",
+          "Travis Scott",
+          "Kevin Gates"
+        ],
+        "food_places": [
+          "Chipotle",
+          "Raising Cane's",
+          "Meal prep at home",
+          "Shake Shack",
+          "Any steak restaurant"
+        ]
+      }
+    },
+    {
+      "id": "user30",
+      "email": "clarap@iu.edu",
+      "preferences": {
+        "films": [
+          "Spirited Away",
+          "Pride & Prejudice",
+          "Howl's Moving Castle",
+          "Little Women",
+          "Paddington 2",
+          "Julie & Julia"
+        ],
+        "youtube": [
+          "cozy day at home: reading and baking",
+          "making soup from scratch on a Sunday",
+          "my book nook setup tour",
+          "slow mornings in Bloomington",
+          "rating every Bookshop.org order i've placed",
+          "setting up my apartment for fall"
+        ],
+        "books": [
+          "A Court of Thorns and Roses",
+          "The House in the Cerulean Sea",
+          "Piranesi",
+          "Anxious People",
+          "The Thursday Murder Club",
+          "Legends & Lattes"
+        ],
+        "artists_music": [
+          "Norah Jones",
+          "Novo Amor",
+          "Still Woozy",
+          "Rex Orange County",
+          "Men I Trust",
+          "Mazzy Star"
+        ],
+        "food_places": [
+          "The Runcible Spoon",
+          "Soma Coffee",
+          "Baked!",
+          "Harvest Table",
+          "Home cooking"
+        ]
+      }
+    },
+    {
+      "id": "user31",
+      "email": "oliviank@iu.edu",
+      "preferences": {
+        "films": [
+          "Ingrid Goes West",
+          "The Truman Show",
+          "Bo Burnham: Inside",
+          "Eighth Grade",
+          "Barbie",
+          "Don't Look Up"
+        ],
+        "youtube": [
+          "how i grew to 50k on TikTok as a college student",
+          "what brand deals actually pay",
+          "a week creating content at IU",
+          "aesthetic room makeover for content creation",
+          "ring light vs softbox: what's actually worth it",
+          "my editing workflow for YouTube"
+        ],
+        "books": [
+          "Influence: The Psychology of Persuasion",
+          "Contagious",
+          "Attention Factory (ByteDance)",
+          "The Subtle Art of Not Giving a F*ck",
+          "#GIRLBOSS"
+        ],
+        "artists_music": [
+          "Charli XCX",
+          "Doja Cat",
+          "Sabrina Carpenter",
+          "Chappell Roan",
+          "Troye Sivan",
+          "Olivia Rodrigo"
+        ],
+        "food_places": [
+          "Anywhere photogenic",
+          "Starbucks (seasonal drinks only)",
+          "Caf Django",
+          "Baked!",
+          "Sweetgreen"
+        ]
+      }
+    },
+    {
+      "id": "user32",
+      "email": "sethm@iu.edu",
+      "preferences": {
+        "films": [
+          "Almost Famous",
+          "Bohemian Rhapsody",
+          "Walk the Line",
+          "This Is Spinal Tap",
+          "School of Rock",
+          "The Doors"
+        ],
+        "youtube": [
+          "Beatles deep dives you've never seen",
+          "my vinyl haul from Bloomington record fair",
+          "Led Zeppelin live at Madison Square Garden",
+          "why modern music is (kind of) soulless",
+          "top 10 underrated classic rock albums",
+          "learning Stairway to Heaven on acoustic"
+        ],
+        "books": [
+          "Life (Keith Richards)",
+          "Just Kids",
+          "Hammer of the Gods",
+          "Scar Tissue",
+          "Please Kill Me",
+          "Our Band Could Be Your Life"
+        ],
+        "artists_music": [
+          "Led Zeppelin",
+          "The Beatles",
+          "Pink Floyd",
+          "The Rolling Stones",
+          "Jimi Hendrix",
+          "Cream",
+          "Crosby Stills Nash & Young"
+        ],
+        "food_places": [
+          "Lennie's",
+          "The Bluebird",
+          "Village Deli",
+          "Mother Bear's Pizza",
+          "Steak n Shake"
+        ]
+      }
+    },
+    {
+      "id": "user33",
+      "email": "jasminey@iu.edu",
+      "preferences": {
+        "films": [
+          "Arrival",
+          "The Imitation Game",
+          "A Beautiful Mind",
+          "Hidden Figures",
+          "The Social Network",
+          "Oppenheimer"
+        ],
+        "youtube": [
+          "how to read 50 books a year",
+          "my note-taking system: Obsidian + Notion",
+          "philosophy books that changed how i think",
+          "writing a thesis in 30 days",
+          "how to get into a PhD program",
+          "active recall vs passive review: what works"
+        ],
+        "books": [
+          "Gdel Escher Bach",
+          "The Brothers Karamazov",
+          "Anna Karenina",
+          "Infinite Jest",
+          "The Stranger",
+          "Being and Time"
+        ],
+        "artists_music": [
+          "Bach",
+          "Philip Glass",
+          "lafur Arnalds",
+          "Max Richter",
+          "Sufjan Stevens",
+          "Julia Holter"
+        ],
+        "food_places": [
+          "Soma Coffee (always)",
+          "The Runcible Spoon",
+          "Caf Django",
+          "Harvest Table",
+          "FARMbloomington"
+        ]
+      }
+    },
+    {
+      "id": "user34",
+      "email": "carterf@iu.edu",
+      "preferences": {
+        "films": [
+          "Hell or High Water",
+          "No Country for Old Men",
+          "Secondhand Lions",
+          "October Sky",
+          "Mud",
+          "The Ballad of Buster Scruggs"
+        ],
+        "youtube": [
+          "deer hunting season 2024",
+          "fishing the White River in Indiana",
+          "my lifted truck build progress",
+          "things only people from small town Indiana understand",
+          "moving from a farm to Bloomington: culture shock",
+          "IU vs Purdue: who has the better campus?"
+        ],
+        "books": [
+          "Where the Red Fern Grows",
+          "The Grapes of Wrath",
+          "All Quiet on the Western Front",
+          "Lonesome Dove",
+          "True Grit"
+        ],
+        "artists_music": [
+          "Tyler Childers",
+          "Zach Bryan",
+          "Colter Wall",
+          "Cody Jinks",
+          "Morgan Wallen",
+          "Sturgill Simpson"
+        ],
+        "food_places": [
+          "Cracker Barrel",
+          "Culver's",
+          "Steak n Shake",
+          "Denny's",
+          "Deer camp cookout"
+        ]
+      }
+    },
+    {
+      "id": "user35",
+      "email": "nicoleg@iu.edu",
+      "preferences": {
+        "films": [
+          "Midnight in Paris",
+          "Call Me By Your Name",
+          "Roman Holiday",
+          "Under the Tuscan Sun",
+          "Lost in Translation",
+          "Before Sunrise"
+        ],
+        "youtube": [
+          "solo trip to Italy on $1200",
+          "learning Italian in 3 months before my semester abroad",
+          "study abroad in Florence: week 1 vlog",
+          "packing for 4 months in Europe (carry-on only)",
+          "what no one tells you about studying abroad",
+          "things i'll miss when i come home from Rome"
+        ],
+        "books": [
+          "Eat Pray Love",
+          "A Room with a View",
+          "The Sun Also Rises",
+          "Italian Ways",
+          "My Brilliant Friend",
+          "A Moveable Feast"
+        ],
+        "artists_music": [
+          "Harry Styles",
+          "Hozier",
+          "Conan Gray",
+          "Rex Orange County",
+          "Lorde",
+          "ABBA"
+        ],
+        "food_places": [
+          "Authentic pasta (in Italy)",
+          "Anatolia",
+          "FARMbloomington",
+          "Feast Bloomington",
+          "Anyetsang's Little Tibet"
+        ]
+      }
+    },
+    {
+      "email": "monjarvi@iu.edu",
+      "preferences": {
+        "films": [
+          "Legally Blonde",
+          "The Princess Diaries",
+          "10 Things I Hate About You",
+          "Clueless",
+          "Little Women",
+          "Mamma Mia"
+        ],
+        "youtube": [
+          "day in my life as a nursing student at IU",
+          "grwm for clinicals 6am edition",
+          "cozy fall morning routine in indiana",
+          "study vlog with me nursing finals week",
+          "trying viral coffee recipes at home",
+          "weekend reset routine college edition"
+        ],
+        "books": [
+          "It Ends with Us",
+          "Love and Other Words",
+          "Better Than the Movies",
+          "The Summer I Turned Pretty",
+          "Twisted Love",
+          "November 9"
+        ],
+        "artists_music": [
+          "Taylor Swift",
+          "One Direction",
+          "Sabrina Carpenter",
+          "Olivia Rodrigo",
+          "Gracie Abrams",
+          "Lana Del Rey"
+        ],
+        "food_places": [
+          "Trojan Horse",
+          "Greek Food",
+          "American Food",
+          "Brunch",
+          "Iced Coffee",
+          "Acai Bowls"
+        ]
+      },
+      "id": "user36"
+    },
+    {
+      "email": "bepack@iu.edu",
+      "preferences": {
+        "films": [
+          "Hereditary",
+          "The Conjuring",
+          "Gone Girl",
+          "Zodiac",
+          "Prisoners",
+          "Parasite"
+        ],
+        "youtube": [
+          "true crime documentary full episode",
+          "unsolved mysteries that still haunt investigators",
+          "drawing cartoon characters step by step",
+          "korean street food tour in seoul",
+          "late night study vlog political science major",
+          "deep dive into famous criminal cases"
+        ],
+        "books": [
+          "The Silent Patient",
+          "I'll Be Gone in the Dark",
+          "The Girl with the Dragon Tattoo",
+          "In Cold Blood",
+          "Verity",
+          "Sharp Objects"
+        ],
+        "artists_music": [
+          "Stray Kids",
+          "Twice",
+          "NewJeans",
+          "Taylor Swift",
+          "The Weeknd",
+          "Doja Cat"
+        ],
+        "food_places": [
+          "Happy Thai Restaurant",
+          "Thai Food",
+          "Korean BBQ",
+          "Bibimbap",
+          "Pad Thai",
+          "Bubble Tea"
+        ]
+      },
+      "id": "user37"
+    },
+    {
+      "email": "rarburke@iu.edu",
+      "preferences": {
+        "films": [
+          "Knives Out",
+          "Murder Mystery",
+          "The Nice Guys",
+          "Game Night",
+          "Clue",
+          "Crazy Rich Asians"
+        ],
+        "youtube": [
+          "day in my life kelley school of business",
+          "grwm skincare routine for clear skin",
+          "college vlog indiana weekend with friends",
+          "mystery movie recap explained",
+          "trying viral fast food hacks",
+          "productive study day business student"
+        ],
+        "books": [
+          "The Love Hypothesis",
+          "Beach Read",
+          "The Unhoneymooners",
+          "People We Meet on Vacation",
+          "Finlay Donovan Is Killing It",
+          "Love and Other Words"
+        ],
+        "artists_music": [
+          "Taylor Swift",
+          "Olivia Rodrigo",
+          "Sabrina Carpenter",
+          "Harry Styles",
+          "Dua Lipa",
+          "Ariana Grande"
+        ],
+        "food_places": [
+          "Raising Cane's",
+          "Chicken Sandwich",
+          "French Fries",
+          "Chick-fil-A",
+          "Starbucks",
+          "Brunch"
+        ]
+      },
+      "id": "user38"
+    }
+  ]
+}

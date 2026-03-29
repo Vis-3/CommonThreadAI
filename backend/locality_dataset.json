@@ -1,0 +1,412 @@
+[
+  {
+    "title": "Dune Chapel Music Festival",
+    "creator": "Various Artists",
+    "type": "event_type",
+    "state": "Indiana",
+    "themes": ["sacred music in natural settings", "community and shared silence", "spiritual transcendence", "acoustic intimacy"],
+    "emotions": ["reverence", "communal peace", "wonder"],
+    "aesthetic": ["sand dune amphitheatre", "natural acoustics", "minimalist staging"],
+    "locality_note": "Held in the Indiana Dunes along Lake Michigan, the festival uses the natural bowl of the dunes as an open-air concert hall for sacred and contemplative music."
+  },
+  {
+    "title": "Indianapolis Museum of Art at Newfields",
+    "creator": "Various",
+    "type": "place_type",
+    "state": "Indiana",
+    "themes": ["art across cultures", "gardens as contemplation", "the museum as democratic space"],
+    "emotions": ["quiet wonder", "aesthetic pleasure", "peaceful solitude"],
+    "aesthetic": ["neo-classical architecture", "100-acre garden grounds", "Midwestern grandeur"],
+    "locality_note": "One of the largest encyclopaedic art museums in the US, Newfields pairs fine art galleries with a landscape that shifts with seasons—a distinctly Hoosier combination of culture and land."
+  },
+  {
+    "title": "Tecumseh! Outdoor Drama",
+    "creator": "Allan Eckert",
+    "type": "event_type",
+    "state": "Indiana",
+    "themes": ["Indigenous sovereignty and loss", "the collision of worlds", "leadership and sacrifice", "the Ohio Valley as contested land"],
+    "emotions": ["tragic gravity", "historical grief", "fierce pride"],
+    "aesthetic": ["outdoor amphitheatre drama", "Shawnee oral history", "frontier spectacle"],
+    "locality_note": "Performed in a natural hillside amphitheatre near Chillicothe, Ohio—just across the Indiana border—this drama centres the Shawnee leader Tecumseh's resistance against American expansion across the Old Northwest."
+  },
+  {
+    "title": "A Girl Is a Half-formed Thing",
+    "creator": "Eimear McBride",
+    "type": "book",
+    "state": "Indiana",
+    "themes": ["psychological trauma and survival", "the interior female self", "family as wound", "the body as site of violation"],
+    "emotions": ["raw anguish", "defiant resilience", "stream-of-consciousness desperation"],
+    "aesthetic": ["fractured modernist prose", "pre-linguistic interiority", "elliptical syntax"],
+    "locality_note": "Though Irish in origin, this novel is widely taught at Indiana's creative writing programs and resonates with the literary culture of Midwest university towns like Bloomington, where IU's MFA community engages it as a touchstone of radical form."
+  },
+  {
+    "title": "Hoagy Carmichael: Stardust",
+    "creator": "Hoagy Carmichael",
+    "type": "album",
+    "state": "Indiana",
+    "themes": ["nostalgia for a vanished romance", "the American popular song as emotional autobiography", "longing and memory", "small-town dreams"],
+    "emotions": ["bittersweet longing", "warm nostalgia", "romantic melancholy"],
+    "aesthetic": ["jazz-inflected Tin Pan Alley", "piano and crooning intimacy", "Bloomington Indiana roots"],
+    "locality_note": "Bloomington-born Carmichael wrote 'Stardust' while at Indiana University, making this the quintessential Indiana musical export — a piece of longing so universal it became the most recorded song in American history."
+  },
+  {
+    "title": "Fried Green Tomatoes at the Whistle Stop Cafe",
+    "creator": "Fannie Flagg",
+    "type": "book",
+    "state": "Georgia",
+    "themes": ["female friendship and love unspoken", "the Jim Crow South and its violence", "community memory across generations", "the past alive in the present", "female solidarity across race"],
+    "emotions": ["nostalgic warmth", "quiet grief", "fierce loyalty", "dark humour"],
+    "aesthetic": ["Alabama small-town realism", "frame narrative", "Southern vernacular voice", "the diner as crossroads of community life"],
+    "locality_note": "Set in the fictional Whistle Stop, Alabama—modelled on Irondale near Birmingham, Georgia—the novel weaves the Black and white lives of the Deep South into a story of love and survival that Georgia has claimed as cultural kin."
+  },
+  {
+    "title": "Midnight in the Garden of Good and Evil",
+    "creator": "John Berendt",
+    "type": "book",
+    "state": "Georgia",
+    "themes": ["the seductive decadence of the Old South", "eccentricity as survival", "queer life beneath Southern propriety", "murder and social theatre", "Savannah as a character"],
+    "emotions": ["fascinated unease", "dark charm", "gothic intrigue", "ironic amusement"],
+    "aesthetic": ["Savannah's Spanish moss and Federal architecture", "Southern Gothic", "true crime as social portraiture", "the garden as moral landscape"],
+    "locality_note": "Set entirely in Savannah, Georgia, this book turned the city's squares, mansions, and Bonaventure Cemetery into the world's most literarily famous Southern Gothic stage."
+  },
+  {
+    "title": "Outkast: ATLiens",
+    "creator": "Outkast",
+    "type": "album",
+    "state": "Georgia",
+    "themes": ["Black Southern identity remade as cosmic", "alienation as liberation", "Atlanta as Afrofuturist space", "the outsider who transforms the culture", "spiritual searching in hip-hop"],
+    "emotions": ["cool detachment", "spiritual longing", "futurist pride", "Southern warmth"],
+    "aesthetic": ["Atlanta Dirty South futurism", "spaceship imagery and Southern drawl", "layered production philosophy", "the cosmic as personal"],
+    "locality_note": "Recorded and set in Atlanta, ATLiens reimagines the city not as Southern rap centre but as alien spacecraft — a vision of Black Southern creativity that is impossible to separate from Atlanta's unique cultural geography."
+  },
+  {
+    "title": "Beloved (film)",
+    "creator": "Jonathan Demme",
+    "type": "film",
+    "state": "Georgia",
+    "themes": ["the haunting of slavery", "maternal love and impossible choices", "trauma embodied", "the community that casts out and reclaims", "healing through confrontation"],
+    "emotions": ["profound grief", "dread", "fierce maternal love", "catharsis"],
+    "aesthetic": ["antebellum Ohio landscape", "Gothic domestic haunting", "Toni Morrison's lyric vernacular", "Bluestone Road as the geography of trauma"],
+    "locality_note": "Though set in Cincinnati, the film was shot partly in Georgia, and its cultural resonance in the state — where slavery's legacy saturates the landscape — makes it essential viewing in any serious Georgia humanities context."
+  },
+  {
+    "title": "Selma",
+    "creator": "Ava DuVernay",
+    "type": "film",
+    "state": "Georgia",
+    "themes": ["the courage of non-violent direct action", "the Edmund Pettus Bridge as American crossroads", "state violence against Black citizens", "leadership and its personal cost", "the long arc of justice"],
+    "emotions": ["moral urgency", "grief", "collective courage", "quiet devastation"],
+    "aesthetic": ["Alabama march cinematography", "intimate civil rights portraiture", "the bridge as symbol", "historical realism"],
+    "locality_note": "Directed by Atlanta-raised Ava DuVernay and largely filmed in Georgia, Selma is both a portrait of Alabama 1965 and a deeply Georgian film about the Black South's ongoing struggle for dignity."
+  },
+  {
+    "title": "Chinatown",
+    "creator": "Roman Polanski",
+    "type": "film",
+    "state": "California",
+    "themes": ["power and corruption beneath civic idealism", "water as political weapon in the West", "the unknowability of the truth", "cynicism as the only honest response", "Los Angeles as seductive lie"],
+    "emotions": ["noir dread", "cynical disillusionment", "dark fascination", "helpless horror"],
+    "aesthetic": ["1930s Los Angeles neoclassical design", "neo-noir cinematography", "institutional corruption as landscape", "the tragic spiral"],
+    "locality_note": "A film about Los Angeles that uses the real Owens Valley water wars as its political bedrock — the California aqueduct as moral crime — Chinatown is inseparable from the state's history of resource colonialism."
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "creator": "John Steinbeck",
+    "type": "book",
+    "state": "California",
+    "themes": ["displacement and the broken American Dream", "corporate agriculture's cruelty", "solidarity among the dispossessed", "the journey west as betrayal", "dignity in the face of exploitation"],
+    "emotions": ["righteous anger", "quiet devastation", "communal solidarity", "grief"],
+    "aesthetic": ["Dust Bowl documentary realism", "Route 66 as purgatory", "California valley labour camps", "the Joads as American archetype"],
+    "locality_note": "Steinbeck's California — the San Joaquin Valley, the Salinas Valley, the labour camps of Tulare County — is the moral landscape of this novel, a state that promised everything and delivered exploitation."
+  },
+  {
+    "title": "Channel Orange",
+    "creator": "Frank Ocean",
+    "type": "album",
+    "state": "California",
+    "themes": ["unrequited and queer love", "Los Angeles as dream and disillusionment", "class aspiration and its emptiness", "nostalgia for a summer that never returns", "the emotional cost of cool"],
+    "emotions": ["vulnerable longing", "bittersweet nostalgia", "tender heartbreak", "hazy desire"],
+    "aesthetic": ["Los Angeles beach surrealism", "R&B as emotional architecture", "the pop cultural landscape as emotional text", "nostalgia without sentimentality"],
+    "locality_note": "A deeply Californian album, Channel Orange maps Los Angeles — its freeways, its summer light, its fantasy of reinvention — onto an emotional landscape of longing and queer desire that feels specific to the city."
+  },
+  {
+    "title": "Inherent Vice",
+    "creator": "Thomas Pynchon",
+    "type": "book",
+    "state": "California",
+    "themes": ["the death of the 1960s counterculture", "Los Angeles as conspiracy labyrinth", "stoner drift as political philosophy", "paranoia and the surveillance state", "nostalgia for a just-vanished world"],
+    "emotions": ["stoned melancholy", "paranoid alertness", "dark comedy", "nostalgic grief"],
+    "aesthetic": ["1970 South Bay Los Angeles", "noir parody", "Pynchon's labyrinthine plotting", "the beach as elegy"],
+    "locality_note": "Set in the fictional Gordita Beach (Manhattan Beach, California), Inherent Vice is Pynchon's love letter and elegy to a California that the Nixon era ended — the surf-and-dope idyll swallowed by the surveillance state."
+  },
+  {
+    "title": "A Tree Grows in Brooklyn",
+    "creator": "Betty Smith",
+    "type": "book",
+    "state": "New York",
+    "themes": ["poverty and the dream of education", "immigrant working-class New York", "female resilience and coming of age", "the neighbourhood as world", "reading as escape and transformation"],
+    "emotions": ["tender nostalgia", "fierce aspiration", "bittersweet warmth", "familial love"],
+    "aesthetic": ["Williamsburg Brooklyn tenement realism", "early 20th century immigrant life", "the ailanthus tree as symbol", "the library as sacred space"],
+    "locality_note": "Set entirely in Williamsburg, Brooklyn, the novel is inseparable from the neighbourhood — the local library, the tenement backyard, the Nolan family's specific corner of immigrant New York circa 1900–1919."
+  },
+  {
+    "title": "The Velvet Underground & Nico",
+    "creator": "The Velvet Underground",
+    "type": "album",
+    "state": "New York",
+    "themes": ["underground New York and its extremes", "heroin culture and the body", "artistic freedom as moral transgression", "Andy Warhol's Factory as world", "the beauty of the squalid"],
+    "emotions": ["cool detachment", "dark fascination", "transgressive joy", "melancholy drone"],
+    "aesthetic": ["Factory avant-garde minimalism", "drone rock and feedback", "spoken word alienation", "the banana as icon"],
+    "locality_note": "Born entirely from the downtown Manhattan milieu of Warhol's Factory on 47th Street, this album could not exist without New York's specific 1966 underground — its drag queens, junkies, and downtown artists."
+  },
+  {
+    "title": "Rent",
+    "creator": "Jonathan Larson",
+    "type": "event_type",
+    "state": "New York",
+    "themes": ["AIDS-era East Village New York", "art versus commerce", "chosen family under siege", "the urgency of the present moment", "queer bohemian community"],
+    "emotions": ["fierce joy", "grief", "communal defiance", "bittersweet celebration"],
+    "aesthetic": ["East Village loft realism", "Puccini's La Boheme updated", "rock musical energy", "the industrial-to-gentrified neighbourhood"],
+    "locality_note": "Set entirely in Alphabet City, Manhattan's East Village, Rent maps the specific geography of AIDS-era lower Manhattan — Tompkins Square Park, the corner of Avenue B, the life and death of a community."
+  },
+  {
+    "title": "Giovanni's Room",
+    "creator": "James Baldwin",
+    "type": "book",
+    "state": "New York",
+    "themes": ["the cost of denying the self", "queer desire and shame", "American masculinity and its violence", "exile in Paris as revelation", "the inevitability of tragedy when authenticity is refused"],
+    "emotions": ["tragic desire", "shame", "aching love", "existential dread"],
+    "aesthetic": ["Paris expatriate atmosphere", "precise Jamesian prose", "the room as psychological space", "restrained lyricism"],
+    "locality_note": "Though set in Paris, Baldwin wrote this in New York and it belongs to the Black queer intellectual tradition of Harlem and Greenwich Village — the dual exile of being Black and gay in mid-century America that only New York's underground could shelter."
+  },
+  {
+    "title": "Louisiana Story",
+    "creator": "Robert Flaherty",
+    "type": "film",
+    "state": "Louisiana",
+    "themes": ["the bayou as sacred wild space", "a child's encounter with industrial modernity", "oil and the natural world", "Cajun life and its mysteries", "innocence confronting power"],
+    "emotions": ["pastoral wonder", "quiet dread", "nostalgic tenderness", "ambiguous loss"],
+    "aesthetic": ["bayou cinematographic poetry", "Virgil Thomson score", "neorealist documentary-fiction hybrid", "swamp creature mythology"],
+    "locality_note": "Filmed entirely in the Cajun bayous of Vermilion Parish, Louisiana, the film is one of cinema's most lyrical documents of Louisiana's swamp landscape and the Cajun world of the Atchafalaya basin."
+  },
+  {
+    "title": "A Streetcar Named Desire",
+    "creator": "Tennessee Williams",
+    "type": "event_type",
+    "state": "Louisiana",
+    "themes": ["the death of the Old South in the New", "sexual desire and violence", "illusion versus brutal reality", "mental dissolution", "the working-class as raw power"],
+    "emotions": ["smouldering desire", "tragic dissolution", "brutal confrontation", "faded gentility"],
+    "aesthetic": ["New Orleans French Quarter heat", "Elysian Fields tenement claustrophobia", "Southern Gothic sensuality", "the streetcar as fate"],
+    "locality_note": "Set on Elysian Fields Avenue in the Faubourg Marigny neighbourhood of New Orleans, Williams drew on his own years living in the French Quarter to create the definitive literary portrait of New Orleans as erotic, brutal, and mythic."
+  },
+  {
+    "title": "Treme",
+    "creator": "David Simon",
+    "type": "film",
+    "state": "Louisiana",
+    "themes": ["community survival after catastrophe", "music as resistance and soul", "the right to return home", "New Orleans cultural specificity as American treasure", "grief and continuity"],
+    "emotions": ["resilient grief", "communal joy", "righteous anger", "deep love of place"],
+    "aesthetic": ["post-Katrina New Orleans neighbourhood realism", "second line parade energy", "brass band as heartbeat", "documentary intimacy"],
+    "locality_note": "Named for the Treme neighbourhood of New Orleans — the oldest African American neighbourhood in the US — this series documents post-Katrina recovery through the lens of New Orleans' irreplaceable music culture."
+  },
+  {
+    "title": "Their Eyes Were Watching God",
+    "creator": "Zora Neale Hurston",
+    "type": "book",
+    "state": "Louisiana",
+    "themes": ["Black female self-realisation", "romantic love and its limitations", "the Black Southern community as complex world", "language as power", "the horizon as lifelong quest"],
+    "emotions": ["sensual joy", "defiant independence", "grief", "hard-won peace"],
+    "aesthetic": ["Florida Everglades vernacular voice", "Eatonville as Black utopia", "oral tradition in literary form", "the hurricane as existential test"],
+    "locality_note": "Though set in Eatonville, Florida, Hurston's cultural roots ran through the Black Gulf South including Louisiana's Creole belt, and the novel is essential reading in Louisiana's Black literary tradition — the bayou and hammock country is kin to her swamps."
+  },
+  {
+    "title": "Bless Me, Ultima",
+    "creator": "Rudolfo Anaya",
+    "type": "book",
+    "state": "New Mexico",
+    "themes": ["spiritual knowledge transmitted through the old", "Chicano identity and Catholic-indigenous syncritism", "the New Mexico llano as sacred space", "coming of age through moral crisis", "the curandera as keeper of memory"],
+    "emotions": ["reverent wonder", "spiritual anxiety", "nostalgic tenderness", "moral awakening"],
+    "aesthetic": ["New Mexico llano landscape", "Chicano oral tradition", "the Golden Carp as pagan god", "curandera healing as theme"],
+    "locality_note": "Set in Guadalupe, New Mexico during WWII, Anaya's novel is inseparable from the llano — the high plains east of Santa Fe — and the Chicano Catholic villages of the upper Rio Grande valley where indigenous and Spanish spiritualities merged."
+  },
+  {
+    "title": "Georgia O'Keeffe: Ghost Ranch",
+    "creator": "Georgia O'Keeffe",
+    "type": "place_type",
+    "state": "New Mexico",
+    "themes": ["the feminine in the desert landscape", "bones and flowers as the same thing", "solitude as artistic necessity", "the New Mexico sky as subject", "modernism born from the Southwest"],
+    "emotions": ["austere wonder", "solitary peace", "sensual awe", "quiet ferocity"],
+    "aesthetic": ["Abiquiu red cliff landscapes", "close-up abstraction of the organic", "desert modernism", "sky and bone"],
+    "locality_note": "O'Keeffe's Ghost Ranch studio near Abiquiu, New Mexico is both her home and her subject — the red hills, bleached skulls, and blue sky of the Piedra Lumbre basin become the content of her canvases over four decades."
+  },
+  {
+    "title": "House Made of Dawn",
+    "creator": "N. Scott Momaday",
+    "type": "book",
+    "state": "New Mexico",
+    "themes": ["the Native veteran caught between worlds", "the Jemez Pueblo as spiritual home", "trauma and the loss of cultural grounding", "the land as the only true medicine", "the difficulty of return"],
+    "emotions": ["fragmented grief", "spiritual longing", "alienation", "tentative healing"],
+    "aesthetic": ["Jemez Pueblo ceremonial language", "New Mexico Pueblo landscape", "Kiowa oral tradition", "fragmentary narrative form"],
+    "locality_note": "Set in the Jemez Pueblo of New Mexico, Momaday draws on his own Kiowa-Jemez heritage to create a portrait of the high desert village as the only ground where healing is possible — and the city as spiritual death."
+  },
+  {
+    "title": "Breaking Bad",
+    "creator": "Vince Gilligan",
+    "type": "film",
+    "state": "New Mexico",
+    "themes": ["the corruption of the ordinary", "the American Southwest as moral wilderness", "pride as the original sin", "the meth economy of the borderlands", "a man's transformation into what he was always becoming"],
+    "emotions": ["moral dread", "dark fascination", "tragic inevitability", "bitter irony"],
+    "aesthetic": ["Albuquerque's industrial suburbs", "desert as moral void", "the RV as freedom and trap", "blue sky and bleached concrete"],
+    "locality_note": "Filmed entirely in Albuquerque, Breaking Bad uses New Mexico's high desert light, its strip mall sprawl, and its proximity to the border to construct a uniquely Southwestern moral landscape for Walter White's descent."
+  },
+  {
+    "title": "A Prairie Home Companion",
+    "creator": "Garrison Keillor",
+    "type": "event_type",
+    "state": "Minnesota",
+    "themes": ["the comedy of Midwestern understatement", "community radio as collective memory", "small-town Lutheran life and its gentle absurdities", "nostalgia and self-deprecating warmth", "the storyteller as community anchor"],
+    "emotions": ["warm nostalgia", "gentle irony", "communal belonging", "bittersweet humour"],
+    "aesthetic": ["Fitzgerald Theatre Saint Paul", "live radio variety show", "Lake Wobegon as imaginary archetype", "Midwest vernacular voice"],
+    "locality_note": "Broadcast from the Fitzgerald Theatre in Saint Paul and rooted in Keillor's Stearns County Minnesota upbringing, the show created Lake Wobegon as the definitive literary landscape of Minnesota's small-town Lutheran Norwegian culture."
+  },
+  {
+    "title": "Purple Rain",
+    "creator": "Prince",
+    "type": "album",
+    "state": "Minnesota",
+    "themes": ["transcendence through music", "parental violence and its legacy", "Minneapolis club culture as spiritual arena", "sexuality as spiritual practice", "the artist as messianic figure"],
+    "emotions": ["ecstatic joy", "wounded longing", "sexual intensity", "spiritual fervour"],
+    "aesthetic": ["Minneapolis Purple Rain world", "Paisley Park sound", "guitar as prayer", "the club as church"],
+    "locality_note": "Recorded at Prince's Paisley Park studio in Chanhassen, Minnesota and set in First Avenue nightclub in Minneapolis, Purple Rain is the definitive Minneapolis cultural document — a city's sound, grief, and ecstasy in one film and album."
+  },
+  {
+    "title": "Fargo",
+    "creator": "Joel and Ethan Coen",
+    "type": "film",
+    "state": "Minnesota",
+    "themes": ["evil erupting in the ordinary Midwest", "the decency of the unremarkable", "greed's absurd violence", "the pregnant detective as moral centre", "the Minnesota nice that is not naive"],
+    "emotions": ["darkly comic dread", "quiet heroism", "absurd horror", "cosy menace"],
+    "aesthetic": ["Minnesota-North Dakota winter white-out", "Marge Gunderson's vernacular", "wood chipper matter-of-factness", "the ordinary and the horrifying side by side"],
+    "locality_note": "Shot in Brainerd, Minnesota and Fargo, North Dakota, the Coens use the specific visual culture of the Upper Midwest — snow, diners, Scandinavian politeness — to frame one of American cinema's most distinctive moral landscapes."
+  },
+  {
+    "title": "The Spoon River Anthology",
+    "creator": "Edgar Lee Masters",
+    "type": "book",
+    "state": "Minnesota",
+    "themes": ["the secrets of the ordinary dead", "the Midwest small town and its buried lives", "thwarted ambition and quiet desperation", "the confession the living could not make", "community as lattice of hidden stories"],
+    "emotions": ["posthumous honesty", "quiet grief", "dark irony", "unexpected tenderness"],
+    "aesthetic": ["epitaph verse form", "Illinois small-town voices", "the cemetery as community", "the unsentimental Midwest"],
+    "locality_note": "Though set in the fictional Spoon River, Illinois, this anthology speaks directly to the Minnesota River valley towns and their buried secrets — widely read in Minnesota high schools as the voice of the Midwest's hidden interior lives."
+  },
+  {
+    "title": "True Women",
+    "creator": "Janice Woods Windle",
+    "type": "book",
+    "state": "Texas",
+    "themes": ["female endurance across Texas history", "the Comanche wars and settler violence", "sisterhood across generations", "the founding of Texas through women's eyes", "survival and the cost of civilization"],
+    "emotions": ["fierce endurance", "grief", "fierce pride", "sisterly devotion"],
+    "aesthetic": ["Texas frontier historical novel", "Gonzales County landscape", "Comanche raid and Republic of Texas drama", "multigenerational saga"],
+    "locality_note": "Based on the real diaries of the Woods-DeWees-Lawshe families of Gonzales, Texas, this novel is a literary excavation of the Texas Hill Country's founding women — the state's hidden matriarchal history."
+  },
+  {
+    "title": "Lonesome Dove",
+    "creator": "Larry McMurtry",
+    "type": "book",
+    "state": "Texas",
+    "themes": ["the last great cattle drive as elegy", "male friendship and its limits", "the myth and reality of the West", "the cost of wandering without roots", "the Texas Ranger as dying type"],
+    "emotions": ["epic melancholy", "laconic tenderness", "adventurous drive", "elegiac grief"],
+    "aesthetic": ["Texas to Montana cattle trail realism", "Hat Creek Cattle Company vernacular", "the plains as endless moral test", "the Western as tragedy not triumph"],
+    "locality_note": "Beginning in the fictional Lonesome Dove on the Rio Grande (based on Eagle Pass, Texas), McMurtry's epic is the definitive literary portrait of the post-Civil War Texas trail drives — the state's mythology examined with clear eyes."
+  },
+  {
+    "title": "Townes Van Zandt: Live at the Old Quarter",
+    "creator": "Townes Van Zandt",
+    "type": "album",
+    "state": "Texas",
+    "themes": ["the cosmic loneliness of the Texas singer-songwriter", "love's inevitable loss", "the road as spiritual condition", "drinking as communion", "the beautiful tragedy of being alive"],
+    "emotions": ["desolate longing", "dark humour", "tender heartbreak", "restless seeking"],
+    "aesthetic": ["Houston Houston bar intimacy", "fingerpicking and voice alone", "the Texas singer-songwriter tradition", "the ghost in every love song"],
+    "locality_note": "Recorded over two nights at the Old Quarter club in Houston's Midtown neighbourhood in 1973, this is the definitive document of the Texas singer-songwriter scene that produced Townes, Guy Clark, Steve Earle, and Lyle Lovett."
+  },
+  {
+    "title": "No Country for Old Men",
+    "creator": "Cormac McCarthy",
+    "type": "book",
+    "state": "Texas",
+    "themes": ["evil beyond comprehension", "the old order unable to understand modernity's violence", "fate and the impossibility of escape", "the West Texas border as moral frontier", "what we pass on to those who come after"],
+    "emotions": ["cold dread", "weary grief", "philosophical resignation", "helpless horror"],
+    "aesthetic": ["West Texas desert 1980", "Anton Chigurh as force of nature", "flat laconic dialogue", "the blood meridian extended"],
+    "locality_note": "Set along the Texas-Mexico border from Del Rio to Eagle Pass to the Trans-Pecos region, McCarthy's novel uses the specific geography of the Big Bend country — remote, violent, beautiful — as the stage for his meditation on evil and fate."
+  },
+  {
+    "title": "Portlandia",
+    "creator": "Fred Armisen and Carrie Brownstein",
+    "type": "film",
+    "state": "California",
+    "themes": ["the absurdity of progressive urban identity", "Portland's hipster culture and its self-parody", "the Pacific Northwest as alternative universe", "artisanal life and its contradictions", "place-based identity politics"],
+    "emotions": ["affectionate mockery", "absurd glee", "wry self-recognition", "gentle satire"],
+    "aesthetic": ["Portland neighbourhood specificity", "sketch comedy social observation", "Pacific Northwest grey and green", "Sleater-Kinney meets SNL"],
+    "locality_note": "Filmed almost entirely on location in Portland, Oregon's inner Southeast and Northeast neighbourhoods, this show elevated specific Portland streets, shops, and cultural tics into a globally recognised brand of Pacific Northwest self-parody."
+  },
+  {
+    "title": "The Joy Luck Club",
+    "creator": "Amy Tan",
+    "type": "book",
+    "state": "California",
+    "themes": ["the chasm between immigrant mothers and American daughters", "Chinese women's survival across history", "the stories that are never told and always felt", "San Francisco's Chinatown as portal between worlds", "inheritance of trauma and strength"],
+    "emotions": ["intergenerational grief", "fierce love", "cultural dislocation", "hard-won understanding"],
+    "aesthetic": ["San Francisco Richmond District", "mahjong as narrative structure", "Chinese oral folktale woven into realism", "the kitchen as site of cultural transmission"],
+    "locality_note": "Set in San Francisco's Richmond and Sunset Districts — the heart of Chinese American San Francisco — Tan's novel maps the community's geography from Chinatown restaurants to suburban living rooms to the women's country of origin."
+  },
+  {
+    "title": "Jazz at Lincoln Center",
+    "creator": "Various Artists",
+    "type": "place_type",
+    "state": "New York",
+    "themes": ["jazz as living American art form", "the concert hall meeting the blues", "Wynton Marsalis's vision of jazz as democratic art", "the preservation and transformation of tradition", "New York as the world's jazz capital"],
+    "emotions": ["joyful mastery", "communal electricity", "historical reverence", "improvisatory freedom"],
+    "aesthetic": ["Frederick P. Rose Hall in Columbus Circle", "Rose Theater acoustic perfection", "the swing of the Big Band tradition", "contemporary jazz meeting bebop ancestors"],
+    "locality_note": "Located at Columbus Circle in Manhattan, Jazz at Lincoln Center is both a performance hall and a cultural argument — Wynton Marsalis's insistence that jazz is America's classical music, and New York is its natural home."
+  },
+  {
+    "title": "Mud",
+    "creator": "Jeff Nichols",
+    "type": "film",
+    "state": "Louisiana",
+    "themes": ["boyhood on the Mississippi River", "romantic love as myth and burden", "the fugitive sheltered by innocence", "Southern isolation and its codes", "coming of age through disillusionment"],
+    "emotions": ["river-damp nostalgia", "moral awakening", "tender loyalty", "bittersweet disillusionment"],
+    "aesthetic": ["Arkansas-Louisiana river island", "Southern Gothic naturalism", "the river as freedom and danger", "Matthew McConaughey's mythic fugitive"],
+    "locality_note": "Filmed on and around the actual Mississippi River islands of Arkansas — the border territory between Arkansas and Louisiana — Mud is a cinematic portrait of river life that feels rooted in the bayou culture of the Louisiana-Arkansas delta."
+  },
+  {
+    "title": "O Brother, Where Art Thou?",
+    "creator": "Joel and Ethan Coen",
+    "type": "film",
+    "state": "Georgia",
+    "themes": ["the Southern folk music tradition as Odyssey", "the Depression-era South's music and mythology", "the jailbreak as spiritual journey", "blind prophets and Sirens in Mississippi", "the vernacular as epic"],
+    "emotions": ["absurd joy", "dusty melancholy", "Southern storytelling warmth", "dark comedy delight"],
+    "aesthetic": ["sepia Depression-era Mississippi", "bluegrass and gospel soundtrack", "the chain gang as Greek chorus", "the Soggy Bottom Boys as Homeric heroes"],
+    "locality_note": "Filmed primarily in Mississippi and North Georgia's rural counties, the Coens use the actual landscapes of the Deep South's piney woods and red clay to build their mythological Southern Odyssey."
+  },
+  {
+    "title": "Minnesota Nice: A History of Race in the Twin Cities",
+    "creator": "Myron Medcalf",
+    "type": "book",
+    "state": "Minnesota",
+    "themes": ["racial inequality beneath the surface of civic kindness", "the Twin Cities Black community's erasure and persistence", "housing discrimination and redlining", "George Floyd and its aftermath", "the gap between progressive identity and lived reality"],
+    "emotions": ["moral urgency", "historical grief", "quiet anger", "analytical clarity"],
+    "aesthetic": ["investigative journalism as civic reckoning", "Minneapolis-Saint Paul neighbourhood specificity", "oral history woven with data", "the uncomfortable truth beneath the nice"],
+    "locality_note": "A deep dive into the racial geography of the Twin Cities — North Minneapolis, Rondo, and the suburbs of the metro area — this book reads the specific history of Minnesota's racial contradictions as a national story."
+  },
+  {
+    "title": "When the Emperor Was Divine",
+    "creator": "Julie Otsuka",
+    "type": "book",
+    "state": "California",
+    "themes": ["Japanese American internment", "the erasure of the self under state violence", "return to a home that has become foreign", "the silence that descends on a family after trauma", "California's complicity in a national crime"],
+    "emotions": ["quiet devastation", "suspended grief", "restrained rage", "survivor's shame"],
+    "aesthetic": ["Berkeley California and Topaz Utah internment camp", "spare minimalist prose", "the ordinary made unbearable", "the official document as oppression"],
+    "locality_note": "Set in Berkeley, California — where the family is forcibly removed from — and in the Topaz internment camp in Utah, this novel is essential to understanding California's own history of racial violence against its Japanese American residents."
+  }
+]

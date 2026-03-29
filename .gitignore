@@ -1,0 +1,30 @@
+# Environment & secrets
+backend/.env
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Database & vector store
+backend/commonthread.db
+backend/chroma_db/
+
+# Python
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Zone identifiers & temp files (WSL)
+*:Zone.Identifier
+*.Zone.Identifier
+*.TMP
+*~RF*.TMP

@@ -1,0 +1,4312 @@
+[
+  {
+    "title": "Interstellar",
+    "type": "film",
+    "tags": [
+      "existentialism",
+      "space",
+      "scientific wonder",
+      "emotional depth",
+      "time",
+      "survival",
+      "awe",
+      "father-daughter bond"
+    ]
+  },
+  {
+    "title": "Knives Out",
+    "type": "film",
+    "tags": [
+      "mystery",
+      "wit",
+      "social satire",
+      "clever plot",
+      "dark humour",
+      "class commentary"
+    ]
+  },
+  {
+    "title": "Fantastic Mr. Fox",
+    "type": "film",
+    "tags": [
+      "whimsy",
+      "quirky",
+      "resilience",
+      "family",
+      "charm",
+      "Wes Anderson",
+      "animation"
+    ]
+  },
+  {
+    "title": "The Martian",
+    "type": "film",
+    "tags": [
+      "science",
+      "survival",
+      "optimism",
+      "problem-solving",
+      "space",
+      "wit",
+      "humour"
+    ]
+  },
+  {
+    "title": "Scott Pilgrim vs The World",
+    "type": "film",
+    "tags": [
+      "pop culture",
+      "gaming",
+      "romance",
+      "quirky",
+      "indie",
+      "visual style",
+      "nostalgia"
+    ]
+  },
+  {
+    "title": "La La Land",
+    "type": "film",
+    "tags": [
+      "dreams",
+      "romance",
+      "music",
+      "nostalgia",
+      "bittersweet",
+      "ambition",
+      "jazz",
+      "Los Angeles"
+    ]
+  },
+  {
+    "title": "The Substance",
+    "type": "film",
+    "tags": [
+      "body horror",
+      "identity",
+      "feminism",
+      "dark",
+      "surrealism",
+      "social commentary"
+    ]
+  },
+  {
+    "title": "Coraline",
+    "type": "film",
+    "tags": [
+      "dark fantasy",
+      "identity",
+      "courage",
+      "animation",
+      "eerie",
+      "imagination",
+      "family"
+    ]
+  },
+  {
+    "title": "The Notebook",
+    "type": "film",
+    "tags": [
+      "romance",
+      "nostalgia",
+      "love",
+      "emotional",
+      "heartbreak",
+      "devotion"
+    ]
+  },
+  {
+    "title": "Inception",
+    "type": "film",
+    "tags": [
+      "mind-bending",
+      "dreams",
+      "psychological",
+      "sci-fi",
+      "heist",
+      "layered narrative"
+    ]
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "type": "film",
+    "tags": [
+      "memory",
+      "love",
+      "identity",
+      "melancholy",
+      "surrealism",
+      "heartbreak",
+      "emotional"
+    ]
+  },
+  {
+    "title": "Lady Bird",
+    "type": "film",
+    "tags": [
+      "coming of age",
+      "family",
+      "independence",
+      "nostalgia",
+      "identity",
+      "mother-daughter",
+      "California"
+    ]
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "type": "film",
+    "tags": [
+      "quirky",
+      "wit",
+      "visual style",
+      "nostalgia",
+      "adventure",
+      "Wes Anderson",
+      "comedy"
+    ]
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "type": "film",
+    "tags": [
+      "multiverse",
+      "family",
+      "existentialism",
+      "absurdism",
+      "identity",
+      "immigrant experience",
+      "emotional"
+    ]
+  },
+  {
+    "title": "Moonlight",
+    "type": "film",
+    "tags": [
+      "identity",
+      "sexuality",
+      "vulnerability",
+      "coming of age",
+      "emotional depth",
+      "race",
+      "tender"
+    ]
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "type": "film",
+    "tags": [
+      "romance",
+      "art",
+      "feminism",
+      "longing",
+      "period drama",
+      "quiet intensity",
+      "French cinema"
+    ]
+  },
+  {
+    "title": "Coco",
+    "type": "film",
+    "tags": [
+      "family",
+      "death",
+      "culture",
+      "music",
+      "Mexican heritage",
+      "emotional",
+      "animation",
+      "memory"
+    ]
+  },
+  {
+    "title": "Parasite",
+    "type": "film",
+    "tags": [
+      "class inequality",
+      "dark humour",
+      "social critique",
+      "thriller",
+      "Korean cinema",
+      "twists",
+      "family"
+    ]
+  },
+  {
+    "title": "Mamma Mia",
+    "type": "film",
+    "tags": [
+      "music",
+      "nostalgia",
+      "fun",
+      "family",
+      "lighthearted",
+      "ABBA",
+      "feel-good"
+    ]
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "type": "film",
+    "tags": [
+      "romance",
+      "wealth",
+      "Asian culture",
+      "family",
+      "glamour",
+      "identity",
+      "representation"
+    ]
+  },
+  {
+    "title": "To All the Boys I've Loved Before",
+    "type": "film",
+    "tags": [
+      "romance",
+      "coming of age",
+      "sweet",
+      "teen",
+      "heartfelt",
+      "letters"
+    ]
+  },
+  {
+    "title": "Spirited Away",
+    "type": "film",
+    "tags": [
+      "animation",
+      "fantasy",
+      "coming of age",
+      "Japanese culture",
+      "wonder",
+      "Studio Ghibli",
+      "imaginative"
+    ]
+  },
+  {
+    "title": "Arrival",
+    "type": "film",
+    "tags": [
+      "science fiction",
+      "linguistics",
+      "time",
+      "emotional",
+      "alien contact",
+      "grief",
+      "cerebral"
+    ]
+  },
+  {
+    "title": "Annihilation",
+    "type": "film",
+    "tags": [
+      "surrealism",
+      "sci-fi",
+      "horror",
+      "identity",
+      "nature",
+      "dread",
+      "mysterious"
+    ]
+  },
+  {
+    "title": "Lost in Translation",
+    "type": "film",
+    "tags": [
+      "loneliness",
+      "connection",
+      "Japan",
+      "melancholy",
+      "quiet",
+      "Tokyo",
+      "intimacy"
+    ]
+  },
+  {
+    "title": "Legally Blonde",
+    "type": "film",
+    "tags": [
+      "empowerment",
+      "comedy",
+      "fashion",
+      "determination",
+      "female protagonist",
+      "fun"
+    ]
+  },
+  {
+    "title": "Mean Girls",
+    "type": "film",
+    "tags": [
+      "social dynamics",
+      "satire",
+      "high school",
+      "comedy",
+      "female rivalry",
+      "witty"
+    ]
+  },
+  {
+    "title": "Bridesmaids",
+    "type": "film",
+    "tags": [
+      "female friendship",
+      "comedy",
+      "chaos",
+      "relatable",
+      "heartfelt",
+      "funny"
+    ]
+  },
+  {
+    "title": "The Proposal",
+    "type": "film",
+    "tags": [
+      "romance",
+      "comedy",
+      "feel-good",
+      "workplace",
+      "light"
+    ]
+  },
+  {
+    "title": "How to Lose a Guy in 10 Days",
+    "type": "film",
+    "tags": [
+      "romance",
+      "comedy",
+      "games",
+      "fun",
+      "lighthearted"
+    ]
+  },
+  {
+    "title": "Remember the Titans",
+    "type": "film",
+    "tags": [
+      "sports",
+      "teamwork",
+      "race",
+      "American history",
+      "inspiration",
+      "football"
+    ]
+  },
+  {
+    "title": "The Dark Knight",
+    "type": "film",
+    "tags": [
+      "superhero",
+      "darkness",
+      "moral complexity",
+      "philosophy",
+      "thriller",
+      "chaos",
+      "iconic"
+    ]
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "type": "film",
+    "tags": [
+      "action",
+      "nostalgia",
+      "aviation",
+      "adrenaline",
+      "legacy",
+      "patriotism"
+    ]
+  },
+  {
+    "title": "Moneyball",
+    "type": "film",
+    "tags": [
+      "sports",
+      "statistics",
+      "underdog",
+      "baseball",
+      "strategy",
+      "outsider thinking"
+    ]
+  },
+  {
+    "title": "We Are Marshall",
+    "type": "film",
+    "tags": [
+      "sports",
+      "grief",
+      "community",
+      "American football",
+      "resilience",
+      "true story"
+    ]
+  },
+  {
+    "title": "Talladega Nights",
+    "type": "film",
+    "tags": [
+      "comedy",
+      "racing",
+      "absurdist",
+      "American culture",
+      "satire"
+    ]
+  },
+  {
+    "title": "Patch Adams",
+    "type": "film",
+    "tags": [
+      "medicine",
+      "comedy",
+      "inspiration",
+      "compassion",
+      "healing",
+      "true story"
+    ]
+  },
+  {
+    "title": "The Big Short",
+    "type": "film",
+    "tags": [
+      "finance",
+      "satire",
+      "economic crisis",
+      "dark comedy",
+      "Wall Street",
+      "systemic failure"
+    ]
+  },
+  {
+    "title": "Contagion",
+    "type": "film",
+    "tags": [
+      "pandemic",
+      "science",
+      "thriller",
+      "fear",
+      "systemic response"
+    ]
+  },
+  {
+    "title": "Good Will Hunting",
+    "type": "film",
+    "tags": [
+      "intelligence",
+      "therapy",
+      "coming of age",
+      "emotional",
+      "Boston",
+      "self-worth",
+      "mentorship"
+    ]
+  },
+  {
+    "title": "The Theory of Everything",
+    "type": "film",
+    "tags": [
+      "science",
+      "love",
+      "disability",
+      "biopic",
+      "perseverance",
+      "Stephen Hawking"
+    ]
+  },
+  {
+    "title": "The Royal Tenenbaums",
+    "type": "film",
+    "tags": [
+      "quirky",
+      "family dysfunction",
+      "Wes Anderson",
+      "melancholy",
+      "wit",
+      "nostalgia"
+    ]
+  },
+  {
+    "title": "Mulholland Drive",
+    "type": "film",
+    "tags": [
+      "surrealism",
+      "mystery",
+      "Hollywood",
+      "dark",
+      "identity",
+      "dream logic",
+      "Lynch"
+    ]
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "type": "film",
+    "tags": [
+      "sci-fi",
+      "existentialism",
+      "philosophy",
+      "space",
+      "visual",
+      "cerebral",
+      "AI"
+    ]
+  },
+  {
+    "title": "Synecdoche New York",
+    "type": "film",
+    "tags": [
+      "existentialism",
+      "death",
+      "art",
+      "melancholy",
+      "complex",
+      "grief",
+      "meta"
+    ]
+  },
+  {
+    "title": "Into the Wild",
+    "type": "film",
+    "tags": [
+      "adventure",
+      "nature",
+      "freedom",
+      "tragedy",
+      "self-discovery",
+      "isolation",
+      "America"
+    ]
+  },
+  {
+    "title": "Wild",
+    "type": "film",
+    "tags": [
+      "nature",
+      "self-discovery",
+      "healing",
+      "journey",
+      "solitude",
+      "perseverance",
+      "true story"
+    ]
+  },
+  {
+    "title": "127 Hours",
+    "type": "film",
+    "tags": [
+      "survival",
+      "nature",
+      "true story",
+      "tension",
+      "willpower",
+      "isolation"
+    ]
+  },
+  {
+    "title": "The Revenant",
+    "type": "film",
+    "tags": [
+      "survival",
+      "nature",
+      "revenge",
+      "brutal",
+      "visual",
+      "wilderness",
+      "epic"
+    ]
+  },
+  {
+    "title": "Free Solo",
+    "type": "film",
+    "tags": [
+      "extreme sports",
+      "documentary",
+      "focus",
+      "fear",
+      "obsession",
+      "achievement",
+      "risk"
+    ]
+  },
+  {
+    "title": "Meru",
+    "type": "film",
+    "tags": [
+      "climbing",
+      "adventure",
+      "friendship",
+      "documentary",
+      "mountains",
+      "perseverance"
+    ]
+  },
+  {
+    "title": "The Devil Wears Prada",
+    "type": "film",
+    "tags": [
+      "fashion",
+      "career",
+      "ambition",
+      "comedy",
+      "drama",
+      "New York",
+      "identity"
+    ]
+  },
+  {
+    "title": "Clueless",
+    "type": "film",
+    "tags": [
+      "fashion",
+      "comedy",
+      "satire",
+      "90s",
+      "female protagonist",
+      "fun",
+      "coming of age"
+    ]
+  },
+  {
+    "title": "Breakfast at Tiffany's",
+    "type": "film",
+    "tags": [
+      "style",
+      "romance",
+      "classic",
+      "nostalgia",
+      "New York",
+      "loneliness",
+      "elegance"
+    ]
+  },
+  {
+    "title": "Priscilla",
+    "type": "film",
+    "tags": [
+      "celebrity",
+      "isolation",
+      "identity",
+      "period drama",
+      "feminism",
+      "marriage"
+    ]
+  },
+  {
+    "title": "The Favourite",
+    "type": "film",
+    "tags": [
+      "period drama",
+      "power",
+      "dark comedy",
+      "female rivalry",
+      "manipulation",
+      "wit"
+    ]
+  },
+  {
+    "title": "Ready Player One",
+    "type": "film",
+    "tags": [
+      "gaming",
+      "nostalgia",
+      "virtual reality",
+      "action",
+      "pop culture",
+      "80s references"
+    ]
+  },
+  {
+    "title": "The Social Network",
+    "type": "film",
+    "tags": [
+      "tech",
+      "ambition",
+      "betrayal",
+      "drama",
+      "Silicon Valley",
+      "intellect",
+      "cold"
+    ]
+  },
+  {
+    "title": "Tron: Legacy",
+    "type": "film",
+    "tags": [
+      "gaming",
+      "visual",
+      "sci-fi",
+      "electronic",
+      "neon",
+      "father-son"
+    ]
+  },
+  {
+    "title": "Free Guy",
+    "type": "film",
+    "tags": [
+      "gaming",
+      "comedy",
+      "action",
+      "self-awareness",
+      "fun",
+      "simulation"
+    ]
+  },
+  {
+    "title": "Eat Pray Love",
+    "type": "film",
+    "tags": [
+      "self-discovery",
+      "travel",
+      "spirituality",
+      "healing",
+      "independence",
+      "Italy India Bali"
+    ]
+  },
+  {
+    "title": "Little Miss Sunshine",
+    "type": "film",
+    "tags": [
+      "family",
+      "road trip",
+      "comedy",
+      "bittersweet",
+      "quirky",
+      "failure",
+      "love"
+    ]
+  },
+  {
+    "title": "The Secret Life of Walter Mitty",
+    "type": "film",
+    "tags": [
+      "adventure",
+      "daydreaming",
+      "travel",
+      "inspiration",
+      "courage",
+      "beautiful visuals"
+    ]
+  },
+  {
+    "title": "Soul",
+    "type": "film",
+    "tags": [
+      "purpose",
+      "music",
+      "jazz",
+      "existentialism",
+      "Pixar",
+      "life meaning",
+      "New York"
+    ]
+  },
+  {
+    "title": "Her",
+    "type": "film",
+    "tags": [
+      "technology",
+      "loneliness",
+      "love",
+      "future",
+      "melancholy",
+      "AI",
+      "connection"
+    ]
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "type": "film",
+    "tags": [
+      "excess",
+      "ambition",
+      "finance",
+      "dark comedy",
+      "Wall Street",
+      "greed",
+      "charisma"
+    ]
+  },
+  {
+    "title": "Margin Call",
+    "type": "film",
+    "tags": [
+      "finance",
+      "ethics",
+      "Wall Street",
+      "tension",
+      "one night",
+      "moral crisis"
+    ]
+  },
+  {
+    "title": "American Psycho",
+    "type": "film",
+    "tags": [
+      "satire",
+      "dark",
+      "masculinity",
+      "consumerism",
+      "thriller",
+      "identity",
+      "80s excess"
+    ]
+  },
+  {
+    "title": "Gone Girl",
+    "type": "film",
+    "tags": [
+      "thriller",
+      "marriage",
+      "dark",
+      "psychological",
+      "twists",
+      "manipulation",
+      "media"
+    ]
+  },
+  {
+    "title": "Zodiac",
+    "type": "film",
+    "tags": [
+      "true crime",
+      "mystery",
+      "obsession",
+      "thriller",
+      "journalism",
+      "unsolved"
+    ]
+  },
+  {
+    "title": "Prisoners",
+    "type": "film",
+    "tags": [
+      "thriller",
+      "morality",
+      "dark",
+      "mystery",
+      "desperation",
+      "justice"
+    ]
+  },
+  {
+    "title": "I Care a Lot",
+    "type": "film",
+    "tags": [
+      "dark comedy",
+      "manipulation",
+      "crime",
+      "female antihero",
+      "greed",
+      "system abuse"
+    ]
+  },
+  {
+    "title": "Mid90s",
+    "type": "film",
+    "tags": [
+      "coming of age",
+      "skateboarding",
+      "nostalgia",
+      "gritty",
+      "90s",
+      "youth",
+      "belonging"
+    ]
+  },
+  {
+    "title": "Lords of Dogtown",
+    "type": "film",
+    "tags": [
+      "skateboarding",
+      "youth",
+      "70s",
+      "rebellion",
+      "friendship",
+      "California",
+      "freedom"
+    ]
+  },
+  {
+    "title": "Whiplash",
+    "type": "film",
+    "tags": [
+      "music",
+      "ambition",
+      "obsession",
+      "perfectionism",
+      "jazz",
+      "tension",
+      "drums"
+    ]
+  },
+  {
+    "title": "Almost Famous",
+    "type": "film",
+    "tags": [
+      "music",
+      "coming of age",
+      "70s",
+      "nostalgia",
+      "rock",
+      "journalism",
+      "belonging"
+    ]
+  },
+  {
+    "title": "Baby Driver",
+    "type": "film",
+    "tags": [
+      "music",
+      "action",
+      "style",
+      "heist",
+      "rhythm",
+      "cool",
+      "romance"
+    ]
+  },
+  {
+    "title": "Moulin Rouge",
+    "type": "film",
+    "tags": [
+      "music",
+      "romance",
+      "tragedy",
+      "visual excess",
+      "bohemian",
+      "theatrical",
+      "Paris"
+    ]
+  },
+  {
+    "title": "Into the Woods",
+    "type": "film",
+    "tags": [
+      "musical",
+      "fairy tale",
+      "dark",
+      "theatre",
+      "consequence",
+      "Sondheim",
+      "wishes"
+    ]
+  },
+  {
+    "title": "Little Women",
+    "type": "film",
+    "tags": [
+      "coming of age",
+      "family",
+      "ambition",
+      "period drama",
+      "female friendship",
+      "writing",
+      "sisterhood"
+    ]
+  },
+  {
+    "title": "Tick Tick Boom",
+    "type": "film",
+    "tags": [
+      "musical theatre",
+      "ambition",
+      "pressure",
+      "biography",
+      "creativity",
+      "New York",
+      "Jonathan Larson"
+    ]
+  },
+  {
+    "title": "The Hangover",
+    "type": "film",
+    "tags": [
+      "comedy",
+      "friendship",
+      "chaos",
+      "Las Vegas",
+      "fun",
+      "bachelor party"
+    ]
+  },
+  {
+    "title": "Superbad",
+    "type": "film",
+    "tags": [
+      "coming of age",
+      "comedy",
+      "friendship",
+      "high school",
+      "awkward",
+      "nostalgia"
+    ]
+  },
+  {
+    "title": "Old School",
+    "type": "film",
+    "tags": [
+      "comedy",
+      "college",
+      "nostalgia",
+      "pranks",
+      "friendship",
+      "absurd"
+    ]
+  },
+  {
+    "title": "Spotlight",
+    "type": "film",
+    "tags": [
+      "journalism",
+      "investigation",
+      "drama",
+      "truth",
+      "courage",
+      "systemic abuse",
+      "true story"
+    ]
+  },
+  {
+    "title": "All the President's Men",
+    "type": "film",
+    "tags": [
+      "journalism",
+      "political thriller",
+      "history",
+      "Watergate",
+      "truth",
+      "investigative"
+    ]
+  },
+  {
+    "title": "Vice",
+    "type": "film",
+    "tags": [
+      "political satire",
+      "biography",
+      "dark",
+      "power",
+      "Cheney",
+      "manipulation"
+    ]
+  },
+  {
+    "title": "The Post",
+    "type": "film",
+    "tags": [
+      "journalism",
+      "history",
+      "drama",
+      "First Amendment",
+      "courage",
+      "press freedom"
+    ]
+  },
+  {
+    "title": "Network",
+    "type": "film",
+    "tags": [
+      "media satire",
+      "dark",
+      "prescient",
+      "television",
+      "anger",
+      "corporate corruption"
+    ]
+  },
+  {
+    "title": "Boyhood",
+    "type": "film",
+    "tags": [
+      "coming of age",
+      "time",
+      "family",
+      "realistic",
+      "Texas",
+      "growing up",
+      "naturalistic"
+    ]
+  },
+  {
+    "title": "Eighth Grade",
+    "type": "film",
+    "tags": [
+      "social anxiety",
+      "coming of age",
+      "authentic",
+      "middle school",
+      "Gen Z",
+      "awkward",
+      "internet"
+    ]
+  },
+  {
+    "title": "The Edge of Seventeen",
+    "type": "film",
+    "tags": [
+      "coming of age",
+      "dark comedy",
+      "identity",
+      "awkward",
+      "teen",
+      "emotional",
+      "honest"
+    ]
+  },
+  {
+    "title": "Frances Ha",
+    "type": "film",
+    "tags": [
+      "coming of age",
+      "New York",
+      "ambition",
+      "female friendship",
+      "directionless",
+      "dance",
+      "black and white"
+    ]
+  },
+  {
+    "title": "Roma",
+    "type": "film",
+    "tags": [
+      "family",
+      "Mexico",
+      "drama",
+      "visual",
+      "domestic worker",
+      "memory",
+      "Alfonso Cuar\u00f3n"
+    ]
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "type": "film",
+    "tags": [
+      "fantasy",
+      "dark",
+      "war",
+      "imagination",
+      "Spanish Civil War",
+      "escape",
+      "Guillermo del Toro"
+    ]
+  },
+  {
+    "title": "Y Tu Mam\u00e1 Tambi\u00e9n",
+    "type": "film",
+    "tags": [
+      "coming of age",
+      "road trip",
+      "Mexico",
+      "sexuality",
+      "friendship",
+      "bittersweet",
+      "freedom"
+    ]
+  },
+  {
+    "title": "Amores Perros",
+    "type": "film",
+    "tags": [
+      "Mexico City",
+      "dark",
+      "intertwined stories",
+      "social class",
+      "violence",
+      "dogs",
+      "raw"
+    ]
+  },
+  {
+    "title": "Am\u00e9lie",
+    "type": "film",
+    "tags": [
+      "French cinema",
+      "whimsy",
+      "romance",
+      "quirky",
+      "Paris",
+      "imagination",
+      "kindness"
+    ]
+  },
+  {
+    "title": "Moonrise Kingdom",
+    "type": "film",
+    "tags": [
+      "quirky",
+      "young love",
+      "Wes Anderson",
+      "nostalgia",
+      "innocence",
+      "adventure",
+      "island"
+    ]
+  },
+  {
+    "title": "Your Name",
+    "type": "film",
+    "tags": [
+      "anime",
+      "romance",
+      "time",
+      "body swap",
+      "Japan",
+      "emotional",
+      "beautiful visuals"
+    ]
+  },
+  {
+    "title": "Spirited Away",
+    "type": "film",
+    "tags": [
+      "animation",
+      "fantasy",
+      "coming of age",
+      "Japanese culture",
+      "wonder",
+      "Studio Ghibli",
+      "imaginative"
+    ]
+  },
+  {
+    "title": "Train to Busan",
+    "type": "film",
+    "tags": [
+      "horror",
+      "zombie",
+      "Korean cinema",
+      "family",
+      "survival",
+      "tension",
+      "social commentary"
+    ]
+  },
+  {
+    "title": "The Handmaiden",
+    "type": "film",
+    "tags": [
+      "Korean cinema",
+      "dark",
+      "romance",
+      "twists",
+      "sexuality",
+      "period",
+      "manipulation"
+    ]
+  },
+  {
+    "title": "Drive My Car",
+    "type": "film",
+    "tags": [
+      "grief",
+      "theatre",
+      "Japan",
+      "slow cinema",
+      "emotional",
+      "connection",
+      "loss"
+    ]
+  },
+  {
+    "title": "Chef",
+    "type": "film",
+    "tags": [
+      "food",
+      "creativity",
+      "family",
+      "road trip",
+      "passion",
+      "social media",
+      "redemption"
+    ]
+  },
+  {
+    "title": "Jiro Dreams of Sushi",
+    "type": "film",
+    "tags": [
+      "food",
+      "perfectionism",
+      "craft",
+      "documentary",
+      "dedication",
+      "Japanese culture",
+      "mastery"
+    ]
+  },
+  {
+    "title": "The Menu",
+    "type": "film",
+    "tags": [
+      "food",
+      "satire",
+      "dark comedy",
+      "thriller",
+      "class",
+      "art",
+      "obsession"
+    ]
+  },
+  {
+    "title": "Ratatouille",
+    "type": "film",
+    "tags": [
+      "food",
+      "creativity",
+      "dreams",
+      "animation",
+      "Paris",
+      "passion",
+      "outsider"
+    ]
+  },
+  {
+    "title": "Burnt",
+    "type": "film",
+    "tags": [
+      "food",
+      "redemption",
+      "ambition",
+      "cooking",
+      "obsession",
+      "kitchen pressure"
+    ]
+  },
+  {
+    "title": "Julie & Julia",
+    "type": "film",
+    "tags": [
+      "food",
+      "cooking",
+      "passion",
+      "biography",
+      "Julia Child",
+      "blogging",
+      "ambition"
+    ]
+  },
+  {
+    "title": "Pitch Perfect",
+    "type": "film",
+    "tags": [
+      "music",
+      "college",
+      "comedy",
+      "female friendship",
+      "acapella",
+      "fun",
+      "competition"
+    ]
+  },
+  {
+    "title": "Girls Trip",
+    "type": "film",
+    "tags": [
+      "female friendship",
+      "comedy",
+      "travel",
+      "New Orleans",
+      "fun",
+      "wild",
+      "Black women"
+    ]
+  },
+  {
+    "title": "Project X",
+    "type": "film",
+    "tags": [
+      "party",
+      "excess",
+      "comedy",
+      "chaos",
+      "teen",
+      "suburban"
+    ]
+  },
+  {
+    "title": "Spring Breakers",
+    "type": "film",
+    "tags": [
+      "party",
+      "dark",
+      "neon",
+      "crime",
+      "excess",
+      "art house",
+      "controversial"
+    ]
+  },
+  {
+    "title": "The Disaster Artist",
+    "type": "film",
+    "tags": [
+      "filmmaking",
+      "comedy",
+      "cult classic",
+      "obsession",
+      "friendship",
+      "The Room"
+    ]
+  },
+  {
+    "title": "Babel",
+    "type": "film",
+    "tags": [
+      "global",
+      "interconnected stories",
+      "language",
+      "tragedy",
+      "cultural collision",
+      "grief"
+    ]
+  },
+  {
+    "title": "Inception",
+    "type": "film",
+    "tags": [
+      "mind-bending",
+      "dreams",
+      "psychological",
+      "sci-fi",
+      "heist",
+      "layered narrative"
+    ]
+  },
+  {
+    "title": "Harry Styles",
+    "type": "music",
+    "tags": [
+      "pop",
+      "romantic",
+      "playful",
+      "gender-fluid",
+      "nostalgic",
+      "British",
+      "carefree"
+    ]
+  },
+  {
+    "title": "Glass Animals",
+    "type": "music",
+    "tags": [
+      "indie pop",
+      "dreamy",
+      "psychedelic",
+      "electronic",
+      "atmospheric",
+      "introspective"
+    ]
+  },
+  {
+    "title": "Panic! At the Disco",
+    "type": "music",
+    "tags": [
+      "pop rock",
+      "theatrical",
+      "energetic",
+      "emo adjacent",
+      "dramatic",
+      "catchy"
+    ]
+  },
+  {
+    "title": "The Weeknd",
+    "type": "music",
+    "tags": [
+      "R&B",
+      "dark",
+      "moody",
+      "nocturnal",
+      "emotional",
+      "80s influence",
+      "mainstream"
+    ]
+  },
+  {
+    "title": "COIN",
+    "type": "music",
+    "tags": [
+      "indie pop",
+      "upbeat",
+      "romance",
+      "dreamy",
+      "optimistic",
+      "Nashville"
+    ]
+  },
+  {
+    "title": "Lorde",
+    "type": "music",
+    "tags": [
+      "introspective",
+      "pop",
+      "dark",
+      "identity",
+      "melancholy",
+      "New Zealand",
+      "poetic"
+    ]
+  },
+  {
+    "title": "Green Day",
+    "type": "music",
+    "tags": [
+      "punk rock",
+      "rebellion",
+      "angst",
+      "90s",
+      "political",
+      "energy",
+      "nostalgia"
+    ]
+  },
+  {
+    "title": "Olivia Rodrigo",
+    "type": "music",
+    "tags": [
+      "pop",
+      "heartbreak",
+      "coming of age",
+      "Gen Z",
+      "emotional",
+      "guitar pop",
+      "relatable"
+    ]
+  },
+  {
+    "title": "Shakira",
+    "type": "music",
+    "tags": [
+      "Latin pop",
+      "dance",
+      "energy",
+      "Colombian",
+      "global",
+      "rhythm",
+      "iconic"
+    ]
+  },
+  {
+    "title": "Bad Bunny",
+    "type": "music",
+    "tags": [
+      "reggaeton",
+      "Latin trap",
+      "Puerto Rican",
+      "playful",
+      "experimental",
+      "cultural pride"
+    ]
+  },
+  {
+    "title": "One Direction",
+    "type": "music",
+    "tags": [
+      "pop",
+      "nostalgia",
+      "British",
+      "youth",
+      "feel-good",
+      "romance",
+      "teen"
+    ]
+  },
+  {
+    "title": "Tate McRae",
+    "type": "music",
+    "tags": [
+      "pop",
+      "emotional",
+      "dance",
+      "Gen Z",
+      "heartbreak",
+      "energetic"
+    ]
+  },
+  {
+    "title": "Zara Larsson",
+    "type": "music",
+    "tags": [
+      "pop",
+      "empowerment",
+      "Scandinavian",
+      "dance",
+      "bold",
+      "mainstream"
+    ]
+  },
+  {
+    "title": "Fuerza Regida",
+    "type": "music",
+    "tags": [
+      "Mexican regional",
+      "corridos tumbados",
+      "street",
+      "sinaloa",
+      "Spanish",
+      "trap corridos"
+    ]
+  },
+  {
+    "title": "Mitski",
+    "type": "music",
+    "tags": [
+      "indie",
+      "emotional depth",
+      "identity",
+      "raw",
+      "longing",
+      "Japanese American",
+      "intense"
+    ]
+  },
+  {
+    "title": "Clairo",
+    "type": "music",
+    "tags": [
+      "bedroom pop",
+      "lo-fi",
+      "quiet",
+      "introspective",
+      "soft",
+      "Gen Z",
+      "intimacy"
+    ]
+  },
+  {
+    "title": "Phoebe Bridgers",
+    "type": "music",
+    "tags": [
+      "indie folk",
+      "melancholy",
+      "emotional",
+      "dark humour",
+      "grief",
+      "literary",
+      "ghostly"
+    ]
+  },
+  {
+    "title": "Soccer Mommy",
+    "type": "music",
+    "tags": [
+      "indie rock",
+      "emotional",
+      "nostalgic",
+      "90s influence",
+      "soft grunge",
+      "honest"
+    ]
+  },
+  {
+    "title": "boygenius",
+    "type": "music",
+    "tags": [
+      "supergroup",
+      "indie folk",
+      "emotional",
+      "collaboration",
+      "literary",
+      "feminist",
+      "raw"
+    ]
+  },
+  {
+    "title": "Japanese Breakfast",
+    "type": "music",
+    "tags": [
+      "indie pop",
+      "emotional",
+      "grief",
+      "introspective",
+      "Asian American",
+      "literary"
+    ]
+  },
+  {
+    "title": "Faye Webster",
+    "type": "music",
+    "tags": [
+      "indie pop",
+      "romantic",
+      "Atlanta",
+      "dreamy",
+      "soft",
+      "nostalgic",
+      "bossa nova influence"
+    ]
+  },
+  {
+    "title": "Morgan Wallen",
+    "type": "music",
+    "tags": [
+      "country",
+      "Southern",
+      "storytelling",
+      "mainstream",
+      "emotional",
+      "heartland"
+    ]
+  },
+  {
+    "title": "Luke Combs",
+    "type": "music",
+    "tags": [
+      "country",
+      "heartland",
+      "emotional",
+      "working class",
+      "relatable",
+      "anthemic"
+    ]
+  },
+  {
+    "title": "Post Malone",
+    "type": "music",
+    "tags": [
+      "hip-hop",
+      "pop",
+      "emotional",
+      "versatile",
+      "mainstream",
+      "tattooed",
+      "crossover"
+    ]
+  },
+  {
+    "title": "Kendrick Lamar",
+    "type": "music",
+    "tags": [
+      "hip-hop",
+      "lyrical",
+      "social commentary",
+      "Compton",
+      "complex",
+      "poetic",
+      "protest"
+    ]
+  },
+  {
+    "title": "Zac Brown Band",
+    "type": "music",
+    "tags": [
+      "country",
+      "Southern rock",
+      "beach",
+      "jam band",
+      "storytelling"
+    ]
+  },
+  {
+    "title": "Jason Aldean",
+    "type": "music",
+    "tags": [
+      "country",
+      "patriotic",
+      "Southern",
+      "mainstream",
+      "rock country",
+      "anthemic"
+    ]
+  },
+  {
+    "title": "Taylor Swift",
+    "type": "music",
+    "tags": [
+      "pop",
+      "country",
+      "storytelling",
+      "emotional",
+      "nostalgic",
+      "heartbreak",
+      "cultural phenomenon"
+    ]
+  },
+  {
+    "title": "Sabrina Carpenter",
+    "type": "music",
+    "tags": [
+      "pop",
+      "witty",
+      "romantic",
+      "retro",
+      "fun",
+      "charismatic",
+      "Gen Z"
+    ]
+  },
+  {
+    "title": "Gracie Abrams",
+    "type": "music",
+    "tags": [
+      "indie pop",
+      "emotional",
+      "introspective",
+      "quiet",
+      "heartbreak",
+      "soft",
+      "vulnerable"
+    ]
+  },
+  {
+    "title": "Noah Kahan",
+    "type": "music",
+    "tags": [
+      "folk",
+      "Vermont",
+      "emotional",
+      "storytelling",
+      "roots",
+      "melancholy",
+      "community"
+    ]
+  },
+  {
+    "title": "BTS",
+    "type": "music",
+    "tags": [
+      "K-pop",
+      "Korean",
+      "performance",
+      "youth",
+      "self-love",
+      "global",
+      "phenomenon"
+    ]
+  },
+  {
+    "title": "BLACKPINK",
+    "type": "music",
+    "tags": [
+      "K-pop",
+      "Korean",
+      "fashion",
+      "girl group",
+      "powerful",
+      "global",
+      "glamour"
+    ]
+  },
+  {
+    "title": "TWICE",
+    "type": "music",
+    "tags": [
+      "K-pop",
+      "Korean",
+      "girl group",
+      "cheerful",
+      "upbeat",
+      "cute",
+      "performance"
+    ]
+  },
+  {
+    "title": "Stray Kids",
+    "type": "music",
+    "tags": [
+      "K-pop",
+      "dark",
+      "intense",
+      "self-produced",
+      "charismatic",
+      "experimental"
+    ]
+  },
+  {
+    "title": "aespa",
+    "type": "music",
+    "tags": [
+      "K-pop",
+      "conceptual",
+      "virtual",
+      "futuristic",
+      "SM Entertainment",
+      "edgy"
+    ]
+  },
+  {
+    "title": "NewJeans",
+    "type": "music",
+    "tags": [
+      "K-pop",
+      "Y2K aesthetic",
+      "fresh",
+      "minimalist",
+      "young",
+      "breezy"
+    ]
+  },
+  {
+    "title": "IVE",
+    "type": "music",
+    "tags": [
+      "K-pop",
+      "classy",
+      "girl group",
+      "polished",
+      "elegant",
+      "pop"
+    ]
+  },
+  {
+    "title": "Frank Ocean",
+    "type": "music",
+    "tags": [
+      "R&B",
+      "emotional",
+      "introspective",
+      "identity",
+      "queer",
+      "poetic",
+      "rare"
+    ]
+  },
+  {
+    "title": "Childish Gambino",
+    "type": "music",
+    "tags": [
+      "hip-hop",
+      "R&B",
+      "versatile",
+      "social commentary",
+      "creative",
+      "actor",
+      "experimental"
+    ]
+  },
+  {
+    "title": "Khruangbin",
+    "type": "music",
+    "tags": [
+      "psychedelic",
+      "global",
+      "instrumental",
+      "chill",
+      "eclectic",
+      "Houston",
+      "world music"
+    ]
+  },
+  {
+    "title": "Mac Miller",
+    "type": "music",
+    "tags": [
+      "hip-hop",
+      "introspective",
+      "emotional",
+      "jazz influence",
+      "growth",
+      "melancholy",
+      "Pittsburgh"
+    ]
+  },
+  {
+    "title": "SZA",
+    "type": "music",
+    "tags": [
+      "R&B",
+      "emotional",
+      "vulnerability",
+      "identity",
+      "nature",
+      "feminine",
+      "complex"
+    ]
+  },
+  {
+    "title": "Anderson .Paak",
+    "type": "music",
+    "tags": [
+      "funk",
+      "soul",
+      "R&B",
+      "joyful",
+      "drums",
+      "California",
+      "energetic"
+    ]
+  },
+  {
+    "title": "Stephen Sondheim",
+    "type": "music",
+    "tags": [
+      "musical theatre",
+      "complex",
+      "emotional",
+      "dark",
+      "literary",
+      "Broadway",
+      "legacy"
+    ]
+  },
+  {
+    "title": "Jonathan Larson",
+    "type": "music",
+    "tags": [
+      "musical theatre",
+      "passion",
+      "Rent",
+      "Broadway",
+      "youth",
+      "bohemian",
+      "tragedy"
+    ]
+  },
+  {
+    "title": "Patti LuPone",
+    "type": "music",
+    "tags": [
+      "musical theatre",
+      "powerhouse",
+      "Broadway",
+      "diva",
+      "iconic",
+      "legacy"
+    ]
+  },
+  {
+    "title": "Ben Platt",
+    "type": "music",
+    "tags": [
+      "musical theatre",
+      "emotional",
+      "Dear Evan Hansen",
+      "Broadway",
+      "vulnerability",
+      "young"
+    ]
+  },
+  {
+    "title": "Audra McDonald",
+    "type": "music",
+    "tags": [
+      "musical theatre",
+      "classical",
+      "powerful",
+      "Tony Awards",
+      "Broadway",
+      "versatile"
+    ]
+  },
+  {
+    "title": "Idina Menzel",
+    "type": "music",
+    "tags": [
+      "musical theatre",
+      "powerful vocals",
+      "Frozen",
+      "Broadway",
+      "Elphaba",
+      "iconic"
+    ]
+  },
+  {
+    "title": "Radiohead",
+    "type": "music",
+    "tags": [
+      "experimental rock",
+      "dystopian",
+      "emotional",
+      "complex",
+      "British",
+      "electronic",
+      "cerebral"
+    ]
+  },
+  {
+    "title": "Car Seat Headrest",
+    "type": "music",
+    "tags": [
+      "indie rock",
+      "introspective",
+      "coming of age",
+      "lo-fi",
+      "verbose",
+      "anxiety",
+      "literary"
+    ]
+  },
+  {
+    "title": "The National",
+    "type": "music",
+    "tags": [
+      "indie rock",
+      "melancholy",
+      "literary",
+      "adult",
+      "wine",
+      "introspective",
+      "New York"
+    ]
+  },
+  {
+    "title": "Arca",
+    "type": "music",
+    "tags": [
+      "experimental",
+      "avant-garde",
+      "electronic",
+      "identity",
+      "Venezuelan",
+      "transgressive",
+      "club"
+    ]
+  },
+  {
+    "title": "Talk Talk",
+    "type": "music",
+    "tags": [
+      "post-rock",
+      "art rock",
+      "ambient",
+      "transcendent",
+      "British",
+      "spiritual",
+      "pioneering"
+    ]
+  },
+  {
+    "title": "Arthur Russell",
+    "type": "music",
+    "tags": [
+      "experimental",
+      "lo-fi",
+      "emotional",
+      "cello",
+      "disco",
+      "avant-garde",
+      "lonely"
+    ]
+  },
+  {
+    "title": "Hozier",
+    "type": "music",
+    "tags": [
+      "folk rock",
+      "soulful",
+      "Irish",
+      "romantic",
+      "dark",
+      "bluesy",
+      "poetic"
+    ]
+  },
+  {
+    "title": "Gregory Alan Isakov",
+    "type": "music",
+    "tags": [
+      "folk",
+      "introspective",
+      "poetic",
+      "Colorado",
+      "soft",
+      "nature",
+      "intimate"
+    ]
+  },
+  {
+    "title": "Bon Iver",
+    "type": "music",
+    "tags": [
+      "indie folk",
+      "atmospheric",
+      "emotional",
+      "Wisconsin",
+      "falsetto",
+      "layered",
+      "winter"
+    ]
+  },
+  {
+    "title": "Fleet Foxes",
+    "type": "music",
+    "tags": [
+      "folk rock",
+      "harmonies",
+      "nature",
+      "pastoral",
+      "Pacific Northwest",
+      "lush",
+      "warm"
+    ]
+  },
+  {
+    "title": "Iron & Wine",
+    "type": "music",
+    "tags": [
+      "folk",
+      "quiet",
+      "intimate",
+      "acoustic",
+      "Southern",
+      "literary",
+      "soft"
+    ]
+  },
+  {
+    "title": "Caamp",
+    "type": "music",
+    "tags": [
+      "folk",
+      "Ohio",
+      "gentle",
+      "acoustic",
+      "nostalgic",
+      "campfire",
+      "heartfelt"
+    ]
+  },
+  {
+    "title": "FKA twigs",
+    "type": "music",
+    "tags": [
+      "avant-garde",
+      "R&B",
+      "visual art",
+      "intense",
+      "sensual",
+      "experimental",
+      "British"
+    ]
+  },
+  {
+    "title": "Charli XCX",
+    "type": "music",
+    "tags": [
+      "pop",
+      "hyperpop",
+      "party",
+      "fashion",
+      "brat",
+      "experimental",
+      "Gen Z"
+    ]
+  },
+  {
+    "title": "Dua Lipa",
+    "type": "music",
+    "tags": [
+      "pop",
+      "dance",
+      "empowerment",
+      "nostalgic disco",
+      "Albanian British",
+      "glamorous",
+      "mainstream"
+    ]
+  },
+  {
+    "title": "Solange",
+    "type": "music",
+    "tags": [
+      "R&B",
+      "Black identity",
+      "art",
+      "Houston",
+      "introspective",
+      "feminist",
+      "elegant"
+    ]
+  },
+  {
+    "title": "Caroline Polachek",
+    "type": "music",
+    "tags": [
+      "art pop",
+      "experimental",
+      "dramatic",
+      "operatic",
+      "ethereal",
+      "New York",
+      "poetic"
+    ]
+  },
+  {
+    "title": "Chappell Roan",
+    "type": "music",
+    "tags": [
+      "pop",
+      "queer",
+      "theatrical",
+      "Midwest",
+      "drag aesthetic",
+      "emotional",
+      "empowering"
+    ]
+  },
+  {
+    "title": "Billie Eilish",
+    "type": "music",
+    "tags": [
+      "dark pop",
+      "introspective",
+      "Gen Z",
+      "identity",
+      "whisper",
+      "anxiety",
+      "iconic"
+    ]
+  },
+  {
+    "title": "Daft Punk",
+    "type": "music",
+    "tags": [
+      "electronic",
+      "French",
+      "dance",
+      "iconic",
+      "robot aesthetic",
+      "disco influence",
+      "nostalgic"
+    ]
+  },
+  {
+    "title": "Tyler the Creator",
+    "type": "music",
+    "tags": [
+      "hip-hop",
+      "creative",
+      "eccentric",
+      "fashion",
+      "golf",
+      "introspective",
+      "experimental"
+    ]
+  },
+  {
+    "title": "Porter Robinson",
+    "type": "music",
+    "tags": [
+      "electronic",
+      "emotional",
+      "concert experience",
+      "anime aesthetic",
+      "dreamy",
+      "introspective"
+    ]
+  },
+  {
+    "title": "Madeon",
+    "type": "music",
+    "tags": [
+      "electronic",
+      "French",
+      "upbeat",
+      "production",
+      "nostalgic",
+      "dance",
+      "youthful"
+    ]
+  },
+  {
+    "title": "Jhene Aiko",
+    "type": "music",
+    "tags": [
+      "R&B",
+      "spiritual",
+      "feminine",
+      "emotional",
+      "California",
+      "healing",
+      "ethereal"
+    ]
+  },
+  {
+    "title": "Novo Amor",
+    "type": "music",
+    "tags": [
+      "atmospheric folk",
+      "melancholy",
+      "ambient",
+      "Welsh",
+      "soft",
+      "emotional",
+      "winter"
+    ]
+  },
+  {
+    "title": "Still Woozy",
+    "type": "music",
+    "tags": [
+      "indie pop",
+      "lo-fi",
+      "playful",
+      "California",
+      "feel-good",
+      "quirky",
+      "romance"
+    ]
+  },
+  {
+    "title": "Drake",
+    "type": "music",
+    "tags": [
+      "hip-hop",
+      "Toronto",
+      "emotional",
+      "mainstream",
+      "moody",
+      "R&B",
+      "braggadocious"
+    ]
+  },
+  {
+    "title": "Travis Scott",
+    "type": "music",
+    "tags": [
+      "hip-hop",
+      "atmospheric",
+      "festival",
+      "Houston",
+      "hype",
+      "production",
+      "Astroworld"
+    ]
+  },
+  {
+    "title": "Kanye West",
+    "type": "music",
+    "tags": [
+      "hip-hop",
+      "complex",
+      "controversial",
+      "genre-defying",
+      "genius",
+      "fashion",
+      "polarising"
+    ]
+  },
+  {
+    "title": "Bob Dylan",
+    "type": "music",
+    "tags": [
+      "folk",
+      "protest",
+      "literary",
+      "American",
+      "Nobel Prize",
+      "counterculture",
+      "iconic"
+    ]
+  },
+  {
+    "title": "Bruce Springsteen",
+    "type": "music",
+    "tags": [
+      "rock",
+      "American working class",
+      "storytelling",
+      "New Jersey",
+      "anthemic",
+      "hope",
+      "heartland"
+    ]
+  },
+  {
+    "title": "Vampire Weekend",
+    "type": "music",
+    "tags": [
+      "indie pop",
+      "literary",
+      "Columbia",
+      "preppy",
+      "worldly",
+      "clever",
+      "New York"
+    ]
+  },
+  {
+    "title": "LCD Soundsystem",
+    "type": "music",
+    "tags": [
+      "dance punk",
+      "New York",
+      "introspective party",
+      "nostalgia",
+      "emotional",
+      "cerebral club"
+    ]
+  },
+  {
+    "title": "Miles Davis",
+    "type": "music",
+    "tags": [
+      "jazz",
+      "cool",
+      "innovative",
+      "iconic",
+      "trumpet",
+      "20th century",
+      "timeless"
+    ]
+  },
+  {
+    "title": "John Coltrane",
+    "type": "music",
+    "tags": [
+      "jazz",
+      "spiritual",
+      "complex",
+      "saxophone",
+      "avant-garde",
+      "transcendent",
+      "intense"
+    ]
+  },
+  {
+    "title": "Joanna Newsom",
+    "type": "music",
+    "tags": [
+      "folk",
+      "harp",
+      "poetic",
+      "unique",
+      "literary",
+      "ethereal",
+      "California"
+    ]
+  },
+  {
+    "title": "Jeff Buckley",
+    "type": "music",
+    "tags": [
+      "rock",
+      "emotional",
+      "ethereal",
+      "timeless",
+      "Hallelujah",
+      "intense",
+      "soulful"
+    ]
+  },
+  {
+    "title": "Karol G",
+    "type": "music",
+    "tags": [
+      "reggaeton",
+      "Colombian",
+      "empowerment",
+      "party",
+      "Latin",
+      "bold",
+      "mainstream"
+    ]
+  },
+  {
+    "title": "Peso Pluma",
+    "type": "music",
+    "tags": [
+      "corridos tumbados",
+      "Mexican",
+      "hybrid",
+      "trap",
+      "regional",
+      "trendy",
+      "youth"
+    ]
+  },
+  {
+    "title": "J Balvin",
+    "type": "music",
+    "tags": [
+      "reggaeton",
+      "Colombian",
+      "colourful",
+      "fashion",
+      "global",
+      "party",
+      "mainstream"
+    ]
+  },
+  {
+    "title": "Fiona Apple",
+    "type": "music",
+    "tags": [
+      "art pop",
+      "intense",
+      "emotional",
+      "feminist",
+      "piano",
+      "raw",
+      "eccentric"
+    ]
+  },
+  {
+    "title": "Lana Del Rey",
+    "type": "music",
+    "tags": [
+      "cinematic pop",
+      "melancholy",
+      "nostalgia",
+      "American",
+      "sad girl",
+      "vintage aesthetic",
+      "dreamy"
+    ]
+  },
+  {
+    "title": "Weyes Blood",
+    "type": "music",
+    "tags": [
+      "baroque pop",
+      "melancholy",
+      "ethereal",
+      "orchestral",
+      "cinematic",
+      "poetic",
+      "timeless"
+    ]
+  },
+  {
+    "title": "Ethel Cain",
+    "type": "music",
+    "tags": [
+      "southern gothic",
+      "atmospheric",
+      "dark",
+      "religious imagery",
+      "tragedy",
+      "ethereal",
+      "trans artist"
+    ]
+  },
+  {
+    "title": "Angel Olsen",
+    "type": "music",
+    "tags": [
+      "indie rock",
+      "emotional",
+      "evolving",
+      "raw",
+      "heartbreak",
+      "powerful voice",
+      "country influence"
+    ]
+  },
+  {
+    "title": "Sufjan Stevens",
+    "type": "music",
+    "tags": [
+      "indie folk",
+      "orchestral",
+      "emotional",
+      "religious",
+      "Illinois",
+      "grief",
+      "beautiful"
+    ]
+  },
+  {
+    "title": "Kacey Musgraves",
+    "type": "music",
+    "tags": [
+      "country pop",
+      "progressive",
+      "cosmic",
+      "Texas",
+      "LGBTQ friendly",
+      "dreamy",
+      "introspective"
+    ]
+  },
+  {
+    "title": "Brandi Carlile",
+    "type": "music",
+    "tags": [
+      "folk rock",
+      "emotional",
+      "LGBTQ",
+      "powerful",
+      "storytelling",
+      "Washington",
+      "raw"
+    ]
+  },
+  {
+    "title": "Luke Bryan",
+    "type": "music",
+    "tags": [
+      "country",
+      "party",
+      "mainstream",
+      "summer",
+      "Southern",
+      "fun",
+      "tailgate"
+    ]
+  },
+  {
+    "title": "Diplo",
+    "type": "music",
+    "tags": [
+      "electronic",
+      "DJ",
+      "party",
+      "global",
+      "genre-blending",
+      "energetic",
+      "festival"
+    ]
+  },
+  {
+    "title": "The 1975",
+    "type": "music",
+    "tags": [
+      "indie pop",
+      "introspective",
+      "British",
+      "emotional",
+      "80s influence",
+      "meta",
+      "anxious"
+    ]
+  },
+  {
+    "title": "Natanael Cano",
+    "type": "music",
+    "tags": [
+      "corridos tumbados",
+      "Mexican",
+      "pioneer",
+      "trap regional",
+      "street",
+      "youth",
+      "Sonora"
+    ]
+  },
+  {
+    "title": "Indian Food",
+    "type": "local_scene",
+    "tags": [
+      "spiced",
+      "aromatic",
+      "South Asian",
+      "curry",
+      "vegetarian options",
+      "rich flavour",
+      "communal"
+    ]
+  },
+  {
+    "title": "Italian Food",
+    "type": "local_scene",
+    "tags": [
+      "pasta",
+      "comfort food",
+      "European",
+      "hearty",
+      "family style",
+      "pizza",
+      "romantic"
+    ]
+  },
+  {
+    "title": "Mexican Food",
+    "type": "local_scene",
+    "tags": [
+      "Latin",
+      "bold flavours",
+      "communal",
+      "tacos",
+      "spicy",
+      "vibrant",
+      "comfort"
+    ]
+  },
+  {
+    "title": "Korean BBQ",
+    "type": "local_scene",
+    "tags": [
+      "Korean",
+      "interactive dining",
+      "grilled",
+      "communal",
+      "social",
+      "meat",
+      "Asian"
+    ]
+  },
+  {
+    "title": "Japanese Food",
+    "type": "local_scene",
+    "tags": [
+      "Japanese",
+      "precise",
+      "umami",
+      "sushi",
+      "ramen",
+      "delicate",
+      "Asian"
+    ]
+  },
+  {
+    "title": "Sushi",
+    "type": "local_scene",
+    "tags": [
+      "Japanese",
+      "fresh",
+      "delicate",
+      "seafood",
+      "aesthetic",
+      "precise",
+      "social"
+    ]
+  },
+  {
+    "title": "Ramen",
+    "type": "local_scene",
+    "tags": [
+      "Japanese",
+      "comforting",
+      "noodles",
+      "broth",
+      "late night",
+      "warm",
+      "cosy"
+    ]
+  },
+  {
+    "title": "Pho",
+    "type": "local_scene",
+    "tags": [
+      "Vietnamese",
+      "aromatic",
+      "comforting",
+      "noodles",
+      "warm",
+      "broth",
+      "communal"
+    ]
+  },
+  {
+    "title": "Hot Pot",
+    "type": "local_scene",
+    "tags": [
+      "Chinese",
+      "interactive",
+      "communal",
+      "social",
+      "Asian",
+      "customisable",
+      "gathering"
+    ]
+  },
+  {
+    "title": "Boba Tea",
+    "type": "local_scene",
+    "tags": [
+      "Taiwanese",
+      "sweet",
+      "social",
+      "Asian culture",
+      "trendy",
+      "youth",
+      "customisable"
+    ]
+  },
+  {
+    "title": "Chipotle",
+    "type": "local_scene",
+    "tags": [
+      "Mexican-inspired",
+      "casual",
+      "fast casual",
+      "customisable",
+      "everyday",
+      "American mainstream"
+    ]
+  },
+  {
+    "title": "Raising Cane's",
+    "type": "local_scene",
+    "tags": [
+      "American",
+      "chicken",
+      "casual",
+      "college culture",
+      "simple",
+      "late night",
+      "comfort"
+    ]
+  },
+  {
+    "title": "In n Out",
+    "type": "local_scene",
+    "tags": [
+      "American",
+      "burger",
+      "West Coast",
+      "cult favourite",
+      "classic",
+      "simple",
+      "nostalgic"
+    ]
+  },
+  {
+    "title": "Chick-fil-A",
+    "type": "local_scene",
+    "tags": [
+      "American",
+      "chicken",
+      "Southern",
+      "comfort food",
+      "casual",
+      "mainstream",
+      "college"
+    ]
+  },
+  {
+    "title": "Starbucks",
+    "type": "local_scene",
+    "tags": [
+      "coffee",
+      "social",
+      "mainstream",
+      "sweet drinks",
+      "study spot",
+      "American",
+      "cosy"
+    ]
+  },
+  {
+    "title": "Sweetgreen",
+    "type": "local_scene",
+    "tags": [
+      "healthy",
+      "salad",
+      "fresh",
+      "wellness",
+      "American",
+      "clean eating",
+      "fast casual"
+    ]
+  },
+  {
+    "title": "Chipotle",
+    "type": "local_scene",
+    "tags": [
+      "Mexican-inspired",
+      "casual",
+      "fast casual",
+      "customisable",
+      "everyday",
+      "American mainstream"
+    ]
+  },
+  {
+    "title": "Pasta",
+    "type": "local_scene",
+    "tags": [
+      "Italian",
+      "comfort food",
+      "hearty",
+      "European",
+      "cosy",
+      "simple",
+      "filling"
+    ]
+  },
+  {
+    "title": "Butter Chicken",
+    "type": "local_scene",
+    "tags": [
+      "Indian",
+      "creamy",
+      "spiced",
+      "comfort food",
+      "South Asian",
+      "rich",
+      "popular"
+    ]
+  },
+  {
+    "title": "Taco Bell",
+    "type": "local_scene",
+    "tags": [
+      "American fast food",
+      "Mexican-inspired",
+      "late night",
+      "cheap",
+      "comfort",
+      "casual"
+    ]
+  },
+  {
+    "title": "McDonald's",
+    "type": "local_scene",
+    "tags": [
+      "American",
+      "fast food",
+      "comfort",
+      "global",
+      "nostalgic",
+      "casual",
+      "affordable"
+    ]
+  },
+  {
+    "title": "Burger King",
+    "type": "local_scene",
+    "tags": [
+      "American",
+      "fast food",
+      "burger",
+      "casual",
+      "mainstream",
+      "affordable"
+    ]
+  },
+  {
+    "title": "Buffalo Wild Wings",
+    "type": "local_scene",
+    "tags": [
+      "American",
+      "sports bar",
+      "wings",
+      "communal",
+      "casual",
+      "game day",
+      "social"
+    ]
+  },
+  {
+    "title": "Jimmy John's",
+    "type": "local_scene",
+    "tags": [
+      "American",
+      "sandwich",
+      "fast",
+      "casual",
+      "simple",
+      "lunch",
+      "college"
+    ]
+  },
+  {
+    "title": "Domino's",
+    "type": "local_scene",
+    "tags": [
+      "pizza",
+      "late night",
+      "casual",
+      "comfort",
+      "American",
+      "delivery",
+      "college"
+    ]
+  },
+  {
+    "title": "Panera Bread",
+    "type": "local_scene",
+    "tags": [
+      "caf\u00e9",
+      "healthy-ish",
+      "soup",
+      "comfortable",
+      "study spot",
+      "American",
+      "casual"
+    ]
+  },
+  {
+    "title": "Insomnia Cookies",
+    "type": "local_scene",
+    "tags": [
+      "dessert",
+      "late night",
+      "sweet",
+      "college",
+      "comfort",
+      "American",
+      "indulgent"
+    ]
+  },
+  {
+    "title": "Lennie's Bloomington",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "bar",
+      "live music",
+      "burger",
+      "indie",
+      "community"
+    ]
+  },
+  {
+    "title": "The Bluebird Bloomington",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "live music",
+      "bar",
+      "indie",
+      "community",
+      "concert venue"
+    ]
+  },
+  {
+    "title": "Runcible Spoon",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "breakfast",
+      "coffee",
+      "bohemian",
+      "cosy",
+      "indie",
+      "eclectic"
+    ]
+  },
+  {
+    "title": "Soma Coffee",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "coffee",
+      "artsy",
+      "study spot",
+      "community",
+      "indie",
+      "cosy"
+    ]
+  },
+  {
+    "title": "FARMbloomington",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "farm to table",
+      "sustainable",
+      "local",
+      "seasonal",
+      "upscale casual"
+    ]
+  },
+  {
+    "title": "Harvest Table Bloomington",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "farm to table",
+      "healthy",
+      "local",
+      "cosy",
+      "seasonal"
+    ]
+  },
+  {
+    "title": "Anatolia",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "Turkish",
+      "Mediterranean",
+      "ethnic",
+      "community",
+      "authentic",
+      "warm"
+    ]
+  },
+  {
+    "title": "Anyetsang's Little Tibet",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "Tibetan",
+      "ethnic",
+      "unique",
+      "cultural",
+      "authentic",
+      "communal"
+    ]
+  },
+  {
+    "title": "Laughing Planet",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "healthy",
+      "burrito",
+      "casual",
+      "vegetarian-friendly",
+      "eco-conscious"
+    ]
+  },
+  {
+    "title": "Village Deli",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "deli",
+      "casual",
+      "lunch",
+      "simple",
+      "community",
+      "local"
+    ]
+  },
+  {
+    "title": "Cafe Django",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "coffee",
+      "caf\u00e9",
+      "artsy",
+      "French name",
+      "cosy",
+      "community"
+    ]
+  },
+  {
+    "title": "El Charrito Bloomington",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "Mexican",
+      "authentic",
+      "Latin",
+      "community",
+      "casual",
+      "homestyle"
+    ]
+  },
+  {
+    "title": "Los Arcos",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "Mexican",
+      "authentic",
+      "Latin",
+      "family style",
+      "communal"
+    ]
+  },
+  {
+    "title": "Mother Bear's Pizza",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "pizza",
+      "classic",
+      "college institution",
+      "casual",
+      "community",
+      "comfort"
+    ]
+  },
+  {
+    "title": "Kilroy's Bar n Grill",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "bar",
+      "nightlife",
+      "college",
+      "social",
+      "American",
+      "party"
+    ]
+  },
+  {
+    "title": "Nick's English Hut",
+    "type": "local_scene",
+    "tags": [
+      "Bloomington local",
+      "bar",
+      "classic",
+      "IU tradition",
+      "social",
+      "communal",
+      "historic"
+    ]
+  },
+  {
+    "title": "Korean Fried Chicken",
+    "type": "local_scene",
+    "tags": [
+      "Korean",
+      "crispy",
+      "sweet",
+      "Asian",
+      "popular",
+      "comfort",
+      "social"
+    ]
+  },
+  {
+    "title": "Shake Shack",
+    "type": "local_scene",
+    "tags": [
+      "American",
+      "premium burger",
+      "trendy",
+      "New York",
+      "fast casual",
+      "social",
+      "quality"
+    ]
+  },
+  {
+    "title": "Cava",
+    "type": "local_scene",
+    "tags": [
+      "Mediterranean",
+      "healthy",
+      "fast casual",
+      "customisable",
+      "fresh",
+      "American mainstream",
+      "trendy"
+    ]
+  },
+  {
+    "title": "Smoothie King",
+    "type": "local_scene",
+    "tags": [
+      "healthy",
+      "smoothie",
+      "fitness",
+      "sweet",
+      "casual",
+      "American",
+      "wellness"
+    ]
+  },
+  {
+    "title": "Bibimbap",
+    "type": "local_scene",
+    "tags": [
+      "Korean",
+      "healthy",
+      "colourful",
+      "communal",
+      "rice bowl",
+      "Asian",
+      "balanced"
+    ]
+  },
+  {
+    "title": "The Secret History",
+    "type": "book",
+    "tags": [
+      "dark academia",
+      "murder",
+      "elite college",
+      "aesthetic",
+      "guilt",
+      "literary"
+    ]
+  },
+  {
+    "title": "Babel",
+    "type": "book",
+    "tags": [
+      "colonialism",
+      "language",
+      "historical fantasy",
+      "dark",
+      "Oxford",
+      "resistance"
+    ]
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "type": "book",
+    "tags": [
+      "Hollywood",
+      "LGBTQ",
+      "glamour",
+      "historical fiction",
+      "identity",
+      "romance"
+    ]
+  },
+  {
+    "title": "A Little Life",
+    "type": "book",
+    "tags": [
+      "trauma",
+      "friendship",
+      "devastating",
+      "emotional depth",
+      "grief",
+      "art"
+    ]
+  },
+  {
+    "title": "Normal People",
+    "type": "book",
+    "tags": [
+      "romance",
+      "class",
+      "Ireland",
+      "emotional complexity",
+      "quiet",
+      "coming of age"
+    ]
+  },
+  {
+    "title": "Lessons in Chemistry",
+    "type": "book",
+    "tags": [
+      "feminist",
+      "science",
+      "humour",
+      "historical fiction",
+      "1960s",
+      "empowerment"
+    ]
+  },
+  {
+    "title": "The Midnight Library",
+    "type": "book",
+    "tags": [
+      "existentialism",
+      "regret",
+      "second chances",
+      "uplifting",
+      "philosophy",
+      "what if"
+    ]
+  },
+  {
+    "title": "Piranesi",
+    "type": "book",
+    "tags": [
+      "mystery",
+      "labyrinth",
+      "surrealism",
+      "unique",
+      "beautiful",
+      "strange",
+      "isolation"
+    ]
+  },
+  {
+    "title": "Project Hail Mary",
+    "type": "book",
+    "tags": [
+      "science",
+      "space",
+      "survival",
+      "optimism",
+      "friendship",
+      "problem-solving"
+    ]
+  },
+  {
+    "title": "The Alchemist",
+    "type": "book",
+    "tags": [
+      "philosophy",
+      "journey",
+      "destiny",
+      "spiritual",
+      "global",
+      "fable",
+      "purpose"
+    ]
+  },
+  {
+    "title": "Circe",
+    "type": "book",
+    "tags": [
+      "Greek mythology",
+      "feminist",
+      "magic",
+      "identity",
+      "solitude",
+      "power",
+      "transformation"
+    ]
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "type": "book",
+    "tags": [
+      "coming of age",
+      "mental health",
+      "emotional",
+      "teen",
+      "letters",
+      "nostalgia",
+      "belonging"
+    ]
+  },
+  {
+    "title": "Educated",
+    "type": "book",
+    "tags": [
+      "memoir",
+      "self-taught",
+      "family",
+      "escape",
+      "powerful",
+      "identity",
+      "Idaho"
+    ]
+  },
+  {
+    "title": "The Body Keeps the Score",
+    "type": "book",
+    "tags": [
+      "trauma",
+      "healing",
+      "psychology",
+      "mental health",
+      "science",
+      "therapy"
+    ]
+  },
+  {
+    "title": "Atomic Habits",
+    "type": "book",
+    "tags": [
+      "habits",
+      "self-improvement",
+      "systems",
+      "practical",
+      "productivity",
+      "behaviour"
+    ]
+  },
+  {
+    "title": "1984",
+    "type": "book",
+    "tags": [
+      "dystopia",
+      "surveillance",
+      "totalitarianism",
+      "Orwell",
+      "political",
+      "dark",
+      "classic"
+    ]
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "type": "book",
+    "tags": [
+      "magical realism",
+      "Colombia",
+      "family saga",
+      "Marquez",
+      "Latin American",
+      "epic",
+      "poetic"
+    ]
+  },
+  {
+    "title": "Kafka on the Shore",
+    "type": "book",
+    "tags": [
+      "Murakami",
+      "surrealism",
+      "Japan",
+      "magical realism",
+      "identity",
+      "cats",
+      "dreamlike"
+    ]
+  },
+  {
+    "title": "Pachinko",
+    "type": "book",
+    "tags": [
+      "Korean",
+      "multigenerational",
+      "identity",
+      "Japan",
+      "historical",
+      "family",
+      "sacrifice"
+    ]
+  },
+  {
+    "title": "The Vegetarian",
+    "type": "book",
+    "tags": [
+      "Korean",
+      "dark",
+      "body autonomy",
+      "surrealism",
+      "feminist",
+      "haunting",
+      "Han Kang"
+    ]
+  },
+  {
+    "title": "Kitchen Confidential",
+    "type": "book",
+    "tags": [
+      "food",
+      "chef life",
+      "raw",
+      "Anthony Bourdain",
+      "restaurant",
+      "gritty",
+      "memoir"
+    ]
+  },
+  {
+    "title": "Salt Fat Acid Heat",
+    "type": "book",
+    "tags": [
+      "food",
+      "cooking technique",
+      "education",
+      "Mediterranean",
+      "joy",
+      "sensory"
+    ]
+  },
+  {
+    "title": "Just Kids",
+    "type": "book",
+    "tags": [
+      "art",
+      "New York",
+      "friendship",
+      "memoir",
+      "Patti Smith",
+      "bohemian",
+      "creativity"
+    ]
+  },
+  {
+    "title": "In Cold Blood",
+    "type": "book",
+    "tags": [
+      "true crime",
+      "journalism",
+      "murder",
+      "Kansas",
+      "Capote",
+      "literary nonfiction"
+    ]
+  },
+  {
+    "title": "I'll Be Gone in the Dark",
+    "type": "book",
+    "tags": [
+      "true crime",
+      "Golden State Killer",
+      "obsession",
+      "McNamara",
+      "investigative",
+      "haunting"
+    ]
+  },
+  {
+    "title": "Mindhunter",
+    "type": "book",
+    "tags": [
+      "FBI",
+      "serial killers",
+      "profiling",
+      "true crime",
+      "psychology",
+      "dark"
+    ]
+  },
+  {
+    "title": "The Road",
+    "type": "book",
+    "tags": [
+      "post-apocalyptic",
+      "father-son",
+      "survival",
+      "dark",
+      "sparse",
+      "hope",
+      "McCarthy"
+    ]
+  },
+  {
+    "title": "Big Magic",
+    "type": "book",
+    "tags": [
+      "creativity",
+      "fear",
+      "inspiration",
+      "art",
+      "Elizabeth Gilbert",
+      "self-help"
+    ]
+  },
+  {
+    "title": "When Breath Becomes Air",
+    "type": "book",
+    "tags": [
+      "medicine",
+      "mortality",
+      "memoir",
+      "beautiful",
+      "grief",
+      "purpose",
+      "doctor"
+    ]
+  },
+  {
+    "title": "It Ends with Us",
+    "type": "book",
+    "tags": [
+      "romance",
+      "domestic abuse",
+      "emotional",
+      "Colleen Hoover",
+      "raw",
+      "difficult"
+    ]
+  },
+  {
+    "title": "Daisy Jones and the Six",
+    "type": "book",
+    "tags": [
+      "music",
+      "70s rock",
+      "love",
+      "band drama",
+      "oral history",
+      "nostalgia"
+    ]
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "type": "book",
+    "tags": [
+      "aestheticism",
+      "corruption",
+      "beauty",
+      "Oscar Wilde",
+      "Victorian",
+      "moral decay"
+    ]
+  },
+  {
+    "title": "People We Meet on Vacation",
+    "type": "book",
+    "tags": [
+      "romance",
+      "travel",
+      "friendship",
+      "nostalgia",
+      "contemporary",
+      "will they wont they"
+    ]
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "type": "book",
+    "tags": [
+      "race",
+      "class",
+      "motherhood",
+      "Ohio",
+      "secrets",
+      "identity",
+      "literary"
+    ]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "type": "book",
+    "tags": [
+      "alienation",
+      "teen",
+      "authenticity",
+      "coming of age",
+      "New York",
+      "classic",
+      "rebellion"
+    ]
+  },
+  {
+    "title": "Fight Club",
+    "type": "book",
+    "tags": [
+      "masculinity",
+      "identity",
+      "consumerism",
+      "dark",
+      "dissociation",
+      "anarchy",
+      "psychological"
+    ]
+  },
+  {
+    "title": "Zero to One",
+    "type": "book",
+    "tags": [
+      "startup",
+      "innovation",
+      "PayPal",
+      "Thiel",
+      "technology",
+      "contrarian",
+      "business"
+    ]
+  },
+  {
+    "title": "Thinking Fast and Slow",
+    "type": "book",
+    "tags": [
+      "psychology",
+      "decision making",
+      "Kahneman",
+      "cognitive bias",
+      "behavioural economics"
+    ]
+  },
+  {
+    "title": "Can't Hurt Me",
+    "type": "book",
+    "tags": [
+      "memoir",
+      "Navy SEAL",
+      "mental toughness",
+      "David Goggins",
+      "endurance",
+      "willpower"
+    ]
+  },
+  {
+    "title": "Shoe Dog",
+    "type": "book",
+    "tags": [
+      "Nike",
+      "memoir",
+      "Phil Knight",
+      "entrepreneurship",
+      "perseverance",
+      "business"
+    ]
+  },
+  {
+    "title": "The Atlas Six",
+    "type": "book",
+    "tags": [
+      "dark academia",
+      "magic",
+      "competition",
+      "morally grey",
+      "fantasy",
+      "elite",
+      "sinister"
+    ]
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "type": "book",
+    "tags": [
+      "mystery",
+      "nature",
+      "coming of age",
+      "Southern",
+      "isolation",
+      "longing"
+    ]
+  },
+  {
+    "title": "The House of the Spirits",
+    "type": "book",
+    "tags": [
+      "Chile",
+      "magical realism",
+      "family",
+      "Allende",
+      "political",
+      "feminist",
+      "multigenerational"
+    ]
+  },
+  {
+    "title": "Like Water for Chocolate",
+    "type": "book",
+    "tags": [
+      "Mexican",
+      "food",
+      "magical realism",
+      "love",
+      "family",
+      "sensory",
+      "cultural"
+    ]
+  },
+  {
+    "title": "A Man Called Ove",
+    "type": "book",
+    "tags": [
+      "grief",
+      "community",
+      "Sweden",
+      "heartwarming",
+      "grumpy",
+      "redemption",
+      "quiet"
+    ]
+  },
+  {
+    "title": "Convenience Store Woman",
+    "type": "book",
+    "tags": [
+      "Japan",
+      "unconventional",
+      "quiet",
+      "identity",
+      "societal expectations",
+      "short",
+      "odd"
+    ]
+  },
+  {
+    "title": "The Obstacle Is the Way",
+    "type": "book",
+    "tags": [
+      "Stoicism",
+      "philosophy",
+      "resilience",
+      "Ryan Holiday",
+      "mindset",
+      "ancient wisdom"
+    ]
+  },
+  {
+    "title": "Remarkably Bright Creatures",
+    "type": "book",
+    "tags": [
+      "found family",
+      "grief",
+      "heartfelt",
+      "octopus",
+      "mystery",
+      "gentle",
+      "hopeful"
+    ]
+  },
+  {
+    "title": "The New Jim Crow",
+    "type": "book",
+    "tags": [
+      "race",
+      "criminal justice",
+      "systemic racism",
+      "America",
+      "powerful",
+      "nonfiction",
+      "social justice"
+    ]
+  },
+  {
+    "title": "Ways of Seeing",
+    "type": "book",
+    "tags": [
+      "art criticism",
+      "visual culture",
+      "Berger",
+      "feminist",
+      "media",
+      "philosophy",
+      "short"
+    ]
+  },
+  {
+    "title": "The War of Art",
+    "type": "book",
+    "tags": [
+      "creativity",
+      "resistance",
+      "Pressfield",
+      "art",
+      "discipline",
+      "inspiration",
+      "short"
+    ]
+  },
+  {
+    "title": "Our Band Could Be Your Life",
+    "type": "book",
+    "tags": [
+      "indie rock",
+      "80s",
+      "underground",
+      "music history",
+      "subculture",
+      "punk",
+      "DIY"
+    ]
+  },
+  {
+    "title": "Science & space explainers",
+    "type": "youtube",
+    "tags": [
+      "curiosity",
+      "science",
+      "wonder",
+      "intellectual",
+      "space",
+      "thought experiments"
+    ]
+  },
+  {
+    "title": "Cozy lifestyle vlogs",
+    "type": "youtube",
+    "tags": [
+      "comfort",
+      "slow living",
+      "aesthetic",
+      "domestic",
+      "calm",
+      "routine",
+      "hygge"
+    ]
+  },
+  {
+    "title": "Solo travel vlogs",
+    "type": "youtube",
+    "tags": [
+      "adventure",
+      "independence",
+      "wanderlust",
+      "exploration",
+      "culture",
+      "freedom"
+    ]
+  },
+  {
+    "title": "Study with me videos",
+    "type": "youtube",
+    "tags": [
+      "focus",
+      "productivity",
+      "academic",
+      "calm",
+      "discipline",
+      "ambient"
+    ]
+  },
+  {
+    "title": "Cooking & food content",
+    "type": "youtube",
+    "tags": [
+      "food",
+      "creativity",
+      "technique",
+      "sensory",
+      "passion",
+      "cooking",
+      "culinary"
+    ]
+  },
+  {
+    "title": "Sports analysis & highlights",
+    "type": "youtube",
+    "tags": [
+      "sports",
+      "competition",
+      "strategy",
+      "community",
+      "American",
+      "athletic"
+    ]
+  },
+  {
+    "title": "K-pop content & reactions",
+    "type": "youtube",
+    "tags": [
+      "K-pop",
+      "Korean",
+      "music",
+      "performance",
+      "fan culture",
+      "global",
+      "fandom"
+    ]
+  },
+  {
+    "title": "Film analysis & Letterboxd culture",
+    "type": "youtube",
+    "tags": [
+      "cinema",
+      "analysis",
+      "film theory",
+      "critique",
+      "art house",
+      "intellectual"
+    ]
+  },
+  {
+    "title": "Music theory & vinyl culture",
+    "type": "youtube",
+    "tags": [
+      "music theory",
+      "craft",
+      "deep listening",
+      "vinyl",
+      "nerd culture",
+      "artistic"
+    ]
+  },
+  {
+    "title": "Personal growth & wellness",
+    "type": "youtube",
+    "tags": [
+      "mental health",
+      "self-improvement",
+      "healing",
+      "mindfulness",
+      "therapy",
+      "journaling"
+    ]
+  },
+  {
+    "title": "Finance & investing",
+    "type": "youtube",
+    "tags": [
+      "finance",
+      "investing",
+      "ambition",
+      "wealth",
+      "strategy",
+      "economic literacy"
+    ]
+  },
+  {
+    "title": "Gaming content & commentary",
+    "type": "youtube",
+    "tags": [
+      "gaming",
+      "community",
+      "fun",
+      "strategy",
+      "competitive",
+      "pop culture"
+    ]
+  },
+  {
+    "title": "True crime deep dives",
+    "type": "youtube",
+    "tags": [
+      "true crime",
+      "mystery",
+      "dark",
+      "investigative",
+      "psychology",
+      "obsession"
+    ]
+  },
+  {
+    "title": "Fashion & thrifting vlogs",
+    "type": "youtube",
+    "tags": [
+      "fashion",
+      "style",
+      "thrifting",
+      "aesthetic",
+      "identity",
+      "creative",
+      "sustainable"
+    ]
+  },
+  {
+    "title": "Art & creativity vlogs",
+    "type": "youtube",
+    "tags": [
+      "art",
+      "creativity",
+      "process",
+      "visual",
+      "painting",
+      "sketchbook",
+      "museums"
+    ]
+  },
+  {
+    "title": "College life vlogs",
+    "type": "youtube",
+    "tags": [
+      "college",
+      "campus life",
+      "relatable",
+      "coming of age",
+      "community",
+      "independence"
+    ]
+  },
+  {
+    "title": "Nature & outdoor adventure",
+    "type": "youtube",
+    "tags": [
+      "nature",
+      "hiking",
+      "adventure",
+      "solitude",
+      "freedom",
+      "landscapes",
+      "van life"
+    ]
+  },
+  {
+    "title": "Philosophy & big ideas",
+    "type": "youtube",
+    "tags": [
+      "philosophy",
+      "existentialism",
+      "intellectual",
+      "curious",
+      "ideas",
+      "meaning"
+    ]
+  },
+  {
+    "title": "International student life",
+    "type": "youtube",
+    "tags": [
+      "international",
+      "cultural adjustment",
+      "immigrant experience",
+      "adaptation",
+      "community"
+    ]
+  },
+  {
+    "title": "Morning & night routine vlogs",
+    "type": "youtube",
+    "tags": [
+      "routine",
+      "calm",
+      "self-care",
+      "aesthetic",
+      "productivity",
+      "slow morning"
+    ]
+  },
+  {
+    "title": "Music production & behind the scenes",
+    "type": "youtube",
+    "tags": [
+      "music production",
+      "creative process",
+      "craft",
+      "studio",
+      "artistic",
+      "technical"
+    ]
+  },
+  {
+    "title": "Political analysis & journalism",
+    "type": "youtube",
+    "tags": [
+      "politics",
+      "journalism",
+      "social commentary",
+      "democracy",
+      "systemic thinking"
+    ]
+  }
+]
